@@ -1,5 +1,12 @@
 # log for g34p experiment
 
+## Aug 7 2025
+- Removed DIAC species (~12 individuals germinated), and replaced with back-up secies DISP (~50 individuals germinated)
+- Shade treatment started for all blocks
+
+## August 6 2025
+- Put out 8 par sensors (van Gestel labs)
+
 ## August 2 2025
 - Greenhouse received an alarm, T-stat was replaced on Aug. 2.
 
