@@ -1,8 +1,12 @@
 # log for g34p experiment
 
-## Aug 7 2025
+## August 12 2025
+- Fertilizer treatment started for all blocks
+
+## August 7 2025
+- - Shade treatment started for all blocks
 - Removed DIAC species (~12 individuals germinated), and replaced with back-up secies DISP (~50 individuals germinated)
-- Shade treatment started for all blocks
+
 
 ## August 6 2025
 - Put out 8 par sensors (van Gestel labs)
