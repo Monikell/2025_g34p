@@ -1,5 +1,8 @@
 # log for g34p experiment
 
+## August 18 2025
+-Was notified that the greenhouse adds fertilizer to the tap water on Fridays. Need to speak with Dr. Jennifer Smith
+
 ## August 15 2025
 -Fertilizer treatment 31 ppm P overfilled by 675 mL 3.3% reduction of macronutrients. Will rectify this weekend.
 
