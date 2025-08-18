@@ -1,5 +1,8 @@
 # log for g34p experiment
 
+## August 15 2025
+-Fertilizer treatment 31 ppm P overfilled by 675 mL 3.3% reduction of macronutrients. Will rectify this weekend.
+
 ## August 12 2025
 - Fertilizer treatment started for all blocks
 
