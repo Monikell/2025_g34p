@@ -1,5 +1,10 @@
 # log for g34p experiment
 
+## September 01 2025
+- Fertilized 100 mL maintenance. 
+- Elevated light sensors to match height of plants. Sensors 1, 2, 3, 4, 5, 6, 7, 7, 8 elevated. 
+- Confirmed all temperature and RH probes checked to see if still covered and working. 
+
 ## August 18 2025
 -Was notified that the greenhouse adds fertilizer to the tap water on Fridays. Need to speak with Dr. Jennifer Smith
 
