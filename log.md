@@ -1,5 +1,8 @@
 # log for g34p experiment
 
+## September 20 2025
+- Measurements begin
+
 ## September 01 2025
 - Fertilized 100 mL maintenance. 
 - Elevated light sensors to match height of plants. Sensors 1, 2, 3, 4, 5, 6, 7, 7, 8 elevated. 
