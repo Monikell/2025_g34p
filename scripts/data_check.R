@@ -5,7 +5,9 @@ library(photosynthesis)
 library(readr)
 library(dplyr)
 library(gasanalyzer)
-install.packages("gasanalyzer")
+library(ggplot2)
+library(units)
+
 
 # read in data -----------------------------------------------------------------
 
@@ -59,9 +61,6 @@ data_gibson <- lapply(files_gibson, read_6800_txt)
 data_gibson_df <- bind_rows(data_gibson, .id = "file_id")
 
 
-files_gibson
-file.info(files_gibson)$isdir
-
 
 
 # Ozzie files
@@ -108,3 +107,35 @@ data_stan <- lapply(files_stan, read_6800_txt)
 ## 4
 data_stan_df <- bind_rows(data_stan, .id = "file_id")
 
+
+
+##### just want a list of the ID values
+
+ids_stan <- unique(data_stan_df$UserDefCon.id)
+ids_gibson <- unique(data_gibson_df$UserDefCon.id)
+ids_yadi <- unique(data_yadi_df$UserDefCon.id)
+ids_albert <- unique(data_albert_df$UserDefCon.id)
+ids_ozzie <- unique(data_ozzie_df$UserDefCon.id)
+
+
+ids_09.28 <- combine(ids_albert, ids_gibson, ids_yadi, ids_albert, ids_yadi)
+
+
+
+## quick look at values, cause yadi is concering
+
+ggplot(data_yadi_df, aes(SysObs.Filename, GasEx.A)) +
+  geom_boxplot(outlier.shape = NA) +
+  coord_cartesian(ylim = c(-1 , 50))
+
+ggplot(data_stan_df, aes(SysObs.Filename, GasEx.A)) +
+  geom_boxplot(outlier.shape = NA) +
+  coord_cartesian(ylim = c(-1 , 50))
+
+ggplot(data_albert_df, aes(SysObs.Filename, GasEx.A)) +
+  geom_boxplot(outlier.shape = NA) +
+  coord_cartesian(ylim = c(-1 , 50))
+
+ggplot(data_gibson_df, aes(SysObs.Filename, GasEx.A)) +
+  geom_boxplot(outlier.shape = NA) +
+  coord_cartesian(ylim = c(-1 , 50))
