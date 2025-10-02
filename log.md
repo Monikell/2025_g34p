@@ -1,5 +1,16 @@
 # log for g34p experiment
 
+## October 1 2025
+- Yadi giving very weird A values. Zeroed Yadi's Irgas. Will try Yadi tomorrow.
+
+## September 30 2025 
+Licor machine notes
+- Stan: using Stuttgarter Masse substrate for water column, water column cracked
+- Yadi: gaskets replaced with new white foam gaskets
+
+## September 29 2025
+- Yadi showed very low dark respiration, fixed after a range match. Potential issues with previous data.
+
 ## September 20 2025
 - Measurements begin
 
