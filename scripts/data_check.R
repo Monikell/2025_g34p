@@ -7,17 +7,11 @@ library(dplyr)
 library(gasanalyzer)
 library(ggplot2)
 library(units)
+install.packages("patchwork")
+library(patchwork)
 
 
-# read in data -----------------------------------------------------------------
-
-
-## using "read_licor", doesn't work on a few of the machines -----------------------------------------------------------------------
-
-## read individual files
-albert_9.20 <- read_6800_txt("../data/li_6800/g34p_albert/2025-09-20-0934_logdata_albert")
-gibson_9.20 <- read.delim("../data/li_6800/g34p_gibson/2025-09-20-1105_logdata", skip = 63, header = TRUE)
-
+# data li-6800 -----------------------------------------------------------------
 
 
 ## Creating file paths for each machine
@@ -109,7 +103,7 @@ data_stan_df <- bind_rows(data_stan, .id = "file_id")
 
 
 
-##### just want a list of the ID values
+# extracting ID list -----------------------------------------------------------
 
 ids_stan <- unique(data_stan_df$UserDefCon.id)
 ids_gibson <- unique(data_gibson_df$UserDefCon.id)
@@ -118,24 +112,89 @@ ids_albert <- unique(data_albert_df$UserDefCon.id)
 ids_ozzie <- unique(data_ozzie_df$UserDefCon.id)
 
 
-ids_09.28 <- combine(ids_albert, ids_gibson, ids_yadi, ids_albert, ids_yadi)
+
+## rough look at data ----------------------------------------------------------
+mean(data_yadi_df$GasEx.A)
+mean(data_stan_df$GasEx.A)
+mean(data_albert_df$GasEx.A)
+mean(data_gibson_df$GasEx.A)
+mean(data_ozzie_df$GasEx.A)
 
 
-
-## quick look at values, cause yadi is concering
-
-ggplot(data_yadi_df, aes(SysObs.Filename, GasEx.A)) +
+## fig for ref
+fig_yadi <- ggplot(data_yadi_df, aes(SysObs.Filename, GasEx.A)) +
   geom_boxplot(outlier.shape = NA) +
-  coord_cartesian(ylim = c(-1 , 50))
+  coord_cartesian(ylim = c(-1 , 50)) +
+  labs(title = "yadi A")
 
-ggplot(data_stan_df, aes(SysObs.Filename, GasEx.A)) +
+fig_stan <- ggplot(data_stan_df, aes(SysObs.Filename, GasEx.A)) +
   geom_boxplot(outlier.shape = NA) +
-  coord_cartesian(ylim = c(-1 , 50))
+  coord_cartesian(ylim = c(-1 , 50)) +
+  labs(title = "stan A")
 
 ggplot(data_albert_df, aes(SysObs.Filename, GasEx.A)) +
   geom_boxplot(outlier.shape = NA) +
-  coord_cartesian(ylim = c(-1 , 50))
+  coord_cartesian(ylim = c(-1 , 50)) +
+  labs(title = "albert A")
 
 ggplot(data_gibson_df, aes(SysObs.Filename, GasEx.A)) +
   geom_boxplot(outlier.shape = NA) +
-  coord_cartesian(ylim = c(-1 , 50))
+  coord_cartesian(ylim = c(-1 , 50)) +
+  labs(title = "gibson A")
+
+ggplot(data_ozzie_df, aes(SysObs.Filename, GasEx.A)) +
+  geom_boxplot(outlier.shape = NA) +
+  coord_cartesian(ylim = c(-1 , 50)) +
+  labs(title = "ozzie A")
+
+## look at em kinda next to each other
+fig_stan + fig_yadi
+
+## check ids -------------------------------------------------------------------
+
+## getting unique ID's per day (log file)
+ids_yadi <- data_yadi_df %>%
+  distinct(SysObs.Filename, UserDefCon.id)
+
+ids_stan <- data_stan_df %>%
+  distinct(SysObs.Filename, UserDefCon.id)
+
+ids_ozzie <- data_ozzie_df %>%
+  distinct(SysObs.Filename, UserDefCon.id)
+
+ids_albert <- data_albert_df %>%
+  distinct(SysObs.Filename, UserDefCon.id)
+
+ids_gibson <- data_gibson_df %>%
+  distinct(SysObs.Filename, UserDefCon.id)
+
+
+## adding machine names for clarity
+ids_yadi$machine <- "yadi"
+ids_stan$machine <- "stan"
+ids_ozzie$machine <- "ozzie"
+ids_albert$machine <- "albert"
+ids_gibson$machine <- "gibson"
+
+
+id_list_licor <- rbind(ids_yadi, ids_stan, ids_ozzie, ids_albert, ids_gibson)
+
+
+# data individual plant ids ----------------------------------------------------
+
+id_list_plants <- read.csv("../data_meta/plant_ids.csv")
+
+
+# creation of MIA licor data ---------------------------------------------------
+
+## updating column names to match
+id_list_licor <- id_list_licor %>%
+  rename(individual = UserDefCon.id)
+
+## compare data
+missing_licor_data <- anti_join(id_list_plants, id_list_licor, 
+                                by = "individual")
+
+missing_licor_data
+
+write.csv(missing_licor_data, "../data/missing_licor_data.csv")
