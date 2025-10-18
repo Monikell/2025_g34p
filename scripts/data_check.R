@@ -17,15 +17,17 @@ library(gasanalyzer)
 library(ggplot2)
 library(units)
 library(patchwork)
-
+library(readxl)
+library(purrr)
+library(tidyr)
+library(stringr)
 
 # data -------------------------------------------------------------------------
 
 ## individual plant ids
 id_list_plants <- read.csv("../data_meta/plant_ids.csv")
 
-# data li-6800 aci curves ------------------------------------------------------
-
+# data: gas exchange -----------------------------------------------------------
 
 ## Creating file paths for each machine
 albert <- "../data/li_6800/g34p_albert/"
@@ -191,7 +193,7 @@ write.csv(id_list_licor, file = "../data/id_list_licor.csv")
 
 
 
-## creation of MIA licor data --------------------------------------------------
+## MIA: gas exchange -----------------------------------------------------------
 
 ## updating column names to match
 id_list_licor <- id_list_licor %>%
@@ -210,7 +212,7 @@ write.csv(missing_licor_data, "../data/missing_licor_data.csv")
 
 
 
-# data dark respiration curves -------------------------------------------------
+# data: dark-resp --------------------------------------------------------------
 
 ## Creating file paths for each machine
 albert_dark <- "../data/li_6800/g34p_albert_dark/"
@@ -392,7 +394,7 @@ id_list_licor_dark <- rbind(ids_yadi_dark,
 write.csv(id_list_licor_dark, file = "../data/id_list_licor_dark.csv")
 
 
-## creation of MIA licor data --------------------------------------------------
+## MIA: dark-resp --------------------------------------------------------------
 
 ## updating column names to match
 id_list_licor_dark <- id_list_licor_dark %>%
@@ -405,3 +407,67 @@ missing_licor_data_dark <- anti_join(id_list_plants, id_list_licor_dark,
 missing_licor_data_dark
 
 write.csv(missing_licor_data_dark, "../data/missing_licor_data_dark.csv")
+
+
+# data: light-flo --------------------------------------------------------------
+
+## Creating file paths for light fluoro
+files_li600 <- "../data/li_600/export_2025_10_16_160915/g34p_light_v2/"
+
+
+# 1: list all Excel files in that directory *and all sub-folders*
+files_li600_all <- list.files(
+  path = files_li600,
+  pattern = "\\.xlsx?$",
+  full.names = TRUE,          
+  recursive = TRUE, # dive into the sub-folders
+  ignore.case = TRUE
+)
+
+# 2: read & combine
+data_li600_df <- map_dfr(
+  files_li600_all,
+  ~ read_excel(.x),
+  .id = "file_id"
+)
+
+
+# 3: csv faster sort/ print as needed
+# write.csv(data_li600_df, file = "../data/data_li600_df.csv")
+
+
+# 4: pull only the unique barcodes and id's
+li600_ids <- data_li600_df %>% 
+  distinct(USERDEF...7, USERDEF...8,SYS...2, SYS...3)
+
+
+
+head(li600_ids)
+head(id_list_plants)
+ 
+## MIA: li600 ------------------------------------------------------------------
+
+## updating column names to match
+li600_ids <- li600_ids %>%
+  rename(individual = USERDEF...7,
+         barcode = USERDEF...8, 
+         time = SYS...2,
+         date = SYS...3)
+
+## removing first 2 odd rows
+li600_ids <- li600_ids[-c(1,2), ]
+
+li600_ids$individual <- as.integer(li600_ids$individual)
+
+unique(li600_ids$individual)
+
+## compare data
+missing_li600_data <- anti_join(id_list_plants, li600_ids, 
+                                by = "individual")
+
+missing_li600_data
+
+write.csv(missing_licor_data, "../data/missing_licor_data.csv")
+
+
+
