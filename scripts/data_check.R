@@ -1,8 +1,7 @@
 ## Date: ~ 2025/09/25
 ## Author: Monika Kelley 
 ## Project: G34P (grasses C3 vs. C4, phosphorous manipulation & allocation)
-## Purpose: Verify all (or most individuals) have been sampled for ACI/ Rdark, 
-## prior to ending the experiment. 
+## Purpose: Verify what individuals have been samples for all the things! 
 
 
 # Issue keyword ----------------------------------------------------------------
@@ -411,7 +410,7 @@ missing_licor_data_dark
 
 
 ## mrk notes made
-# write.csv(missing_licor_data_dark, "../data/missing_licor_data_dark.csv")
+write.csv(missing_licor_data_dark, "../data/mia_data/mia_rdark_data.csv")
 
 ## other MIA methods -----------------------------------------------------------
 
@@ -522,7 +521,7 @@ curve_times_dark <- rbind(curve_times_yadi_dark,
                           curve_times_albert_dark, 
                           curve_times_gibson_dark)
 
-write.csv(curve_times_dark, "../data/mia_data/dark_mia_investigation/curve_times_dark.csv")
+# write.csv(curve_times_dark, "../data/mia_data/dark_mia_investigation/curve_times_dark.csv")
 
 
 # data: light-flo --------------------------------------------------------------
