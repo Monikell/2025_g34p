@@ -1,5 +1,8 @@
 # log for g34p experiment
 
+## October 31 2025
+- First set of samples sent off for freeze-drying, one run can hold 68 samples. Likely will need 5 - 6 runs.
+
 ## October 1 2025
 - Yadi giving very weird A values. Zeroed Yadi's Irgas. Will try Yadi tomorrow.
 
