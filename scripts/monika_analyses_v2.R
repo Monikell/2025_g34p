@@ -49,8 +49,44 @@ compiled_df <- biomass_data %>%
 #                             levels = c(0, 15, 31, 62))
 
 
-compiled_df
-unique(compiled_df$biomass_shoots_g)
+
+
+
+
+## root vs shoot biomass, does the relationship differ between trt and photopath
+ggplot(compiled_df, aes(x = biomass_shoots_g, 
+                        y = biomass_roots_g,
+                        color = factor(p.trt),
+                        shape = c3_c4)) +
+  geom_point(size = 3, alpha = 0.8) +
+  
+  geom_smooth(aes(group = interaction(p.trt, c3_c4),
+                  linetype = c3_c4),
+              method = "lm",
+              se = FALSE) +
+  
+  labs(color = "P treatment",
+       shape = "Photosynthetic type",
+       linetype = "Photosynthetic type") +
+  
+  theme_classic()
+
+
+
+
+## root vs shoot biomass, does the relationship differ between trt and photopath
+ggplot(compiled_df, aes(x = biomass_shoots_g, 
+                        y = biomass_roots_g,
+                        color = factor(c3_c4),
+                        shape = shade)) +
+  geom_point(size = 3, alpha = 0.8) +
+  geom_smooth(aes(group = interaction(shade, c3_c4),
+                  linetype = shade),
+              method = "lm",
+              se = FALSE) +
+  theme_classic()
+
+
 
 ###############################################################################x
 # Above-ground biomass model ---------
