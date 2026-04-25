@@ -3,6 +3,13 @@
 # results. Then, script analyzes data to determine main belowground
 # allocation responses to treatment combinations
 
+
+###############################################################################x
+# directory ---------
+###############################################################################x
+setwd("~/git/2025_g34p/scripts")
+
+
 ###############################################################################x
 # Libraries and data cleaning ---------
 ###############################################################################x
@@ -45,46 +52,13 @@ compiled_df <- biomass_data %>%
   dplyr::select(individual, shade, p.trt, usda_code, c3_c4, block, rep,
                 biomass_shoots_g, biomass_roots_g)
 
-# compiled_df$p.trt <- factor(compiled_df$p.trt, 
-#                             levels = c(0, 15, 31, 62))
+compiled_df$p.trt <- factor(compiled_df$p.trt, 
+                             levels = c(0, 15, 31, 62))
 
 
 
 
 
-
-## root vs shoot biomass, does the relationship differ between trt and photopath
-ggplot(compiled_df, aes(x = biomass_shoots_g, 
-                        y = biomass_roots_g,
-                        color = factor(p.trt),
-                        shape = c3_c4)) +
-  geom_point(size = 3, alpha = 0.8) +
-  
-  geom_smooth(aes(group = interaction(p.trt, c3_c4),
-                  linetype = c3_c4),
-              method = "lm",
-              se = FALSE) +
-  
-  labs(color = "P treatment",
-       shape = "Photosynthetic type",
-       linetype = "Photosynthetic type") +
-  
-  theme_classic()
-
-
-
-
-## root vs shoot biomass, does the relationship differ between trt and photopath
-ggplot(compiled_df, aes(x = biomass_shoots_g, 
-                        y = biomass_roots_g,
-                        color = factor(c3_c4),
-                        shape = shade)) +
-  geom_point(size = 3, alpha = 0.8) +
-  geom_smooth(aes(group = interaction(shade, c3_c4),
-                  linetype = shade),
-              method = "lm",
-              se = FALSE) +
-  theme_classic()
 
 
 
@@ -119,15 +93,37 @@ emmeans(agb_model, pairwise~p.trt) #
 emmip(agb_model, ~ p.trt, CIs = TRUE)
 emmip(agb_model, ~ shade, CIs = TRUE)
 
+cld(emmeans(agb_model, pairwise~shade))
+cld(emmeans(agb_model, pairwise~p.trt))
+
+cld(emmeans(agb_model, pairwise ~ shade*c3_c4))
+
 
 ggplot(compiled_df, aes(x = shade, y = biomass_shoots_g)) +
+  facet_grid( ~c3_c4) +
+  geom_boxplot() 
+# biomass increase with more sun
+
+
+ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g,
+                        fill = c3_c4)) +
+  facet_grid( ~shade) +
+  geom_boxplot() 
+
+ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g,
+                        fill = p.trt)) + 
   geom_boxplot()
+# p increase biomass 
 
 ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g,
                         fill = p.trt)) + 
   geom_boxplot()
 
 
+ggplot(compiled_df, aes(x = c3_c4, y = biomass_shoots_g, 
+                        fill = c3_c4)) +
+  facet_grid(~p.trt) +
+  geom_boxplot()
 
 ###############################################################################x
 # Below-ground biomass model ---------
@@ -171,6 +167,21 @@ ggplot(compiled_df, aes(x = shade, y = biomass_roots_g)) +
 ggplot(compiled_df, aes(x = p.trt, y = biomass_roots_g,
                         fill = p.trt)) + 
   geom_boxplot()
+
+
+
+
+
+compiled_df$biomass_roots_g
+
+
+ggplot(compiled_df, aes(x = p.trt, y = biomass_roots_g,
+                        fill = c3_c4)) +
+  facet_grid( ~shade) +
+  geom_boxplot() 
+
+
+
 
 
 ## Greater below-ground biomass in full sun treatment
@@ -310,7 +321,7 @@ ggplot(compiled_df, aes(x = p.trt, y = root_shoot,
   geom_boxplot() +
   facet_grid( ~c3_c4)
 
-
+# p treatment and shade treatment. global root:shoot ratio
 
 
 ###############################################################################x
