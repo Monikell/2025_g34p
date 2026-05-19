@@ -97,6 +97,7 @@ cld(emmeans(agb_model, pairwise~shade))
 cld(emmeans(agb_model, pairwise~p.trt))
 
 cld(emmeans(agb_model, pairwise ~ shade*c3_c4))
+cld(emmeans(agb_model, pairwise ~ shade * p.trt))
 
 
 ggplot(compiled_df, aes(x = shade, y = biomass_shoots_g)) +
@@ -115,15 +116,166 @@ ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g,
   geom_boxplot()
 # p increase biomass 
 
+
+## P.TREATMENTS
 ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g,
                         fill = p.trt)) + 
   geom_boxplot()
+
+## SHADE
+ggplot(compiled_df, aes(x = shade, y = biomass_shoots_g)) + 
+  geom_boxplot()
+
 
 
 ggplot(compiled_df, aes(x = c3_c4, y = biomass_shoots_g, 
                         fill = c3_c4)) +
   facet_grid(~p.trt) +
   geom_boxplot()
+
+
+
+ggplot(compiled_df, aes(x = p.trt, y = shade, color = biomass_shoots_g)) +
+  geom_point(size = 3) +
+  theme_minimal() +
+  labs(x = "p.trt 1", y = "shade 2", color = "biomass_shoots_g")
+
+
+ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.6) +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  theme_minimal()
+
+
+ggplot(compiled_df, aes(x = p.trt, y = biomass_roots_g, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.6) +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  theme_minimal()
+
+ggplot(compiled_df, aes(x = p.trt, y = root_shoot, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.6) +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  theme_minimal()
+
+
+
+## root:shoot
+ggplot(compiled_df, aes(x = p.trt, y = root_shoot, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8, color = "black") +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  
+  scale_fill_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  scale_color_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 13),
+    legend.title = element_text(size = 14),
+    legend.text = element_text(size = 12)
+  )
+
+
+
+
+
+
+## root:shoot - P treatment only
+ggplot(compiled_df, aes(x = p.trt, y = root_shoot)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8, color = "black") +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  
+  scale_fill_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  scale_color_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 13),
+    legend.title = element_text(size = 14),
+    legend.text = element_text(size = 12)
+  )
+
+
+## root:shoot - shade
+ggplot(compiled_df, aes(x = shade, y = root_shoot)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8, color = "black") +
+  geom_jitter(aes(color = p.trt,
+                  shape = p.trt),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 13),
+    legend.title = element_text(size = 14),
+    legend.text = element_text(size = 12)
+  )
+
+
+
+
+## shoot
+ggplot(compiled_df, aes(x = p.trt, y = biomass_shoots_g, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8, color = "black") +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  
+  scale_fill_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  scale_color_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 13),
+    legend.title = element_text(size = 14),
+    legend.text = element_text(size = 12)
+  )
+
+
+## roots
+ggplot(compiled_df, aes(x = p.trt, y = biomass_roots_g, fill = shade)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8, color = "black") +
+  geom_jitter(aes(color = shade),
+              width = 0.2,
+              size = 2,
+              alpha = 0.7) +
+  
+  scale_fill_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  scale_color_manual(values = c("70" = "gray30", "0" = "#B5AE2F")) +
+  
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 13),
+    legend.title = element_text(size = 14),
+    legend.text = element_text(size = 12)
+  )
+
+
+cld(emmeans(bgb_model, pairwise ~ shade * p.trt))
+
+
+
+cld(emmeans(rootshoot_model, pairwise ~ shade * p.trt))
 
 ###############################################################################x
 # Below-ground biomass model ---------
@@ -159,6 +311,11 @@ emmeans(bgb_model, pairwise~shade) # shade <0.0001
 emmeans(bgb_model, pairwise~p.trt) # 0 x 15
 emmip(bgb_model, ~ p.trt, CIs = TRUE)
 emmip(bgb_model, ~ shade, CIs = TRUE)
+
+
+
+cld(emmeans(bgb_model, pairwise~shade))
+cld(emmeans(bgb_model, pairwise~p.trt))
 
 
 ggplot(compiled_df, aes(x = shade, y = biomass_roots_g)) +
@@ -322,6 +479,18 @@ ggplot(compiled_df, aes(x = p.trt, y = root_shoot,
   facet_grid( ~c3_c4)
 
 # p treatment and shade treatment. global root:shoot ratio
+
+
+
+
+ggplot(compiled_df, aes(x = shade, y = root_shoot)) +
+  geom_boxplot()
+
+ggplot(compiled_df, aes(x = p.trt, y = root_shoot,
+                        fill = p.trt)) + 
+  geom_boxplot()
+
+
 
 
 ###############################################################################x
