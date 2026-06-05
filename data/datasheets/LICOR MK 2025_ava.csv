@@ -1,0 +1,433 @@
+ID,MACHINE,DATE,LICOR START TIME,LEAF WIDTH FOR CUVETTE (cm),LICOR INITIAL CLAMP,NOTES
+228,ALB,September 23 2025,10:37,0.4,10:03,
+232,ALB,September 23 2025,11:15,1.2,10:55,
+194,ALB,September 23 2025,11:47,0.5,11:35,Flowers
+218,ALB,September 23 2025,12:24,0.6,12:00,Flowers
+233,ALB,September 23 2025,12:54,0.85,12:38,wrote 23 instead of 233 in licor
+200,ALB,September 23 2025,13:52,1.8,13:15,
+240,ALB,September 23 2025,14:23,1.5,14:07,
+252,YADI,September 23 2025,10:33,0.4,9:52,
+241,YADI,September 23 2025,11:10,0.4,10:49,
+211,YADI,September 23 2025,11:47,1.1,11:28,
+209,YADI,September 23 2025,12:35,1,12:09,
+230,YADI,September 23 2025,1:10,2.2,12:50,
+197,YADI,September 23 2025,14:21,2.5,13:53,
+213,YADI,September 23 2025,,2.4,14:49,ID not updated 2.5 for leaf
+220,STAN,September 23 2025,10:33,0.9,9:56,
+210,STAN,September 23 2025,11:13,0.6,10:47,flowers
+215,STAN,September 23 2025,11:53,2.2,11:27,
+208,STAN,September 23 2025,12:53,1.4,12:07,flowers
+227,STAN,September 23 2025,13:54,1.1,1:15,
+222,STAN,September 23 2025,14:41,2.2,14:09,
+214,STAN,September 23 2025,15:18,2.1,14:56,"repeat, leaf ripper"
+251,OZZ,September 23 2025,10:55,1.2,10:25,
+253,OZZ,September 23 2025,11:46,3.4/2.76,11:11,
+245,OZZ,September 23 2025,12:32,3.3/2.76,12:02,
+223,OZZ,September 23 2025,1:18,2.2,12:48,
+256,OZZ,September 23 2025,14:22,2.1,13:50,
+239,OZZ,September 23 2025,15:03,2.3,14:35,
+207,OZZ,September 23 2025,15:29,2.2,15:16,
+219,YADI,September 24 2025,10:21,1,9:25,
+238,YADI,September 24 2025,11:06,2.5,10:40,
+235,YADI,September 24 2025,12:18,1,11:27,
+42,YADI,September 24 2025,13:20,0.4,12:38,"didnt update ID says ""235"""
+3,YADI,September 24 2025,14:25,0.7,13:41,rerun?
+19,YADI,September 24 2025,15:48,1.1,14:39,
+221,STAN,September 24 2025,9:57,2.6,9:30,
+204,STAN,September 23 2025,10:41,0.8,10:17,
+248,STAN,September 24 2025,11:29,1.5,10:55,
+243,STAN,September 24 2025,12:34,1.4,11:52,
+6,STAN,September 24 2025,13:18,2.4,12:48,
+31,STAN,September 24 2025,14:14,3.1,13:35,
+23,STAN,September 24 2025,15:06,2.9,14:30,
+49,OZZ,September 24 2025,10:05,0.5,9:33,
+255,OZZ,September 24 2025,10:43,0.6,10:21,
+217,OZZ,September 24 2025,11:52,0.4,10:58,
+62,OZZ,September 23 2025,12:32,2,12:16,
+62,OZZ,September 24 2025,13:13,2,12:43,redo. too soon for the first curve
+51,OZZ,September 24 2025,14:21,1.2,13:25,orange 70S
+2,OZZ,September 24 2025,15:21,0.9,14:44,2 leaves
+201,GIB,September 24 2025,10:11,0.8,9:42,"2 curves, forgot to start log. 1st curve -> mid log"
+201,GIB,September 24 2025,10:45,0.8,10:20,
+254,GIB,September 24 2025,11:12,2.1,10:57,ACI curve leaf + stem fell off. SLA=aci leaf. all else=other
+231,GIB,September 24 2025,11:58,2.4,11:26,
+33,GIB,September 24 2025,13:20,0.7,12:22,
+61,GIB,September 24 2025,14:20,3.1,13:41,
+26,GIB,September 24 2025,15:36,1.1,14:38,"Flowers. Aci curve brown stem. Dark Resp. couldn't find aci leaf, used new leaf dark + SLA"
+203,ALB,September 24 2025,10:25,1.2,9:32,
+246,ALB,September 24 2025,11:01,2.6,10:39,
+198,ALB,September 24 2025,11:53,2.1,11:15,Brown lower leaves
+53,ALB,September 24 2025,12:27,3.9,,
+17,ALB,September 24 2025,13:45,0.7,12:44,
+1,ALB,September 24 2025,14:50,0.9,14:01,
+55,ALB,September 24 2025,,,,too small to measure. didn't grab pfrac either. maybe come back after/next week?
+60,ALB,September 24 2025,15:50,1.1,15:06,2 leaves
+10,YADI,September 25 2025,10:26,1,9:47,Flowers. used 2 leaves. 20A
+64,YADI,September 25 2025,11:04,1.5,10:40,
+13,YADI,September 25 2025,12:00,2.6,11:19,
+40,YADI,September 25 2025,13:36,1.1,12:51,
+24,YADI,September 25 2025,14:28,2.1,13:50,
+54,YADI,September 25 2025,15:14,2.6,14:40,
+57,STAN,September 25 2025,10:10,1,9:28,
+52,STAN,September 25 2025,10:58,1.6,10:29,2 leaves
+59,STAN,September 25 2025,11:30,1.2,11:13,
+11,STAN,September 25 2025,12:00,0.9,11:47,2 leaves
+29,STAN,September 25 2025,12:39,2,12:15,
+9,STAN,September 25 2025,13:38,1,12:53,
+34,STAN,September 25 2025,14:15,0.7,13:55,2 leaves
+44,STAN,September 25 2025,15:22,0.6,14:30,
+58,OZZ,September 25 2025,10:09,0.7,9:30,2 leaves
+18,OZZ,September 25 2025,10:59,1.1,10:24,flowers
+32,OZZ,September 25 2025,12:16,1.7,11:18,flowers
+56,OZZ,September 25 2025,13:21,1.1,,
+36,OZZ,September 25 2025,14:03,1,13:36,2 leaves
+21,OZZ,September 25 2025,14:42,2.8,14:15,
+45,OZZ,September 25 2025,15:20,3.3,14:56,
+30,ALB,September 25 2025,10:06,2,9:36,A35
+27,ALB,September 25 2025,11:08,0.8,10:20,
+15,ALB,September 25 2025,11:58,2.5,11:25,
+28,ALB,September 25 2025,12:32,0.8,12:11,
+25,ALB,September 25 2025,13:56,1.1,12:55,
+43,ALB,September 25 2025,14:31,1.3,14:10,
+50,ALB,September 25 2025,15:16,1,14:47,flowers
+12,ALB,September 25 2025,16:17,1.1,15:16,"redo, on GIB w/ fan 5000. previous only got to 16 (-1516?)"
+139,YADI,September 27 2025,10:30,1.2,10:07,
+147,YADI,September 27 2025,11:26,0.9,10:48,
+134,YADI,September 27 2025,12:09,2.2,11:38,lots of browning/crispy leaves
+138,YADI,September 27 2025,13:12,0.6,12:26,flowers
+154,YADI,September 27 2025,14:07,1.1,13:26,"flowers, 2 leaves"
+183,YADI,September 27 2025,14:59,2.7,14:19,
+133,YADI,September 27 2025,15:30,3.1,15:00,
+132,STAN,September 27 2025,10:28,0.5,9:55,bad curve redo
+132,STAN,September 27 2025,11:28,1.1,10:51,2 leaves/ redo/ much better
+150,STAN,September 27 2025,12:12,2.3,11:40,"ripped licor leaf after dark, SLA asap"
+163,STAN,September 27 2025,13:00,2.3,12:30,2 leaves
+162,STAN,September 27 2025,13:53,1.1,13:14,"flowers, 2 leaves, pretty beaten up. had tA (weird) on first run. 2nd run 2 leaves one ripped. better curve"
+131,STAN,September 27 2025,14:26,1,14:05,bad curve redo
+131,STAN,September 27 2025,15:37,1,14:37,terrible curve retry 09/08
+159,OZZ,September 27 2025,10:28,2.2,9:57,"bad curve, redo"
+159,OZZ,September 27 2025,11:11,2.2,10:38,oug
+169,OZZ,September 27 2025,12:03,2,11:25,
+137,OZZ,September 27 2025,12:49,1.9,12:19,2 leaves
+157,OZZ,September 27 2025,13:38,3.2,13:03,edges of nearly all leaves yellowing
+181,OZZ,September 27 2025,14:33,3.6,13:51,
+176,OZZ,September 27 2025,15:18,1.6,14:47,
+180,OZZ,September 27 2025,15:59,0.7,15:31,
+161,GIB,September 27 2025,10:35,0.6,10:08,
+182,GIB,September 27 2025,11:17,2.6,10:48,
+141,GIB,September 27 2025,12:10,2.8,11:32,"yellowing at tips, all leaves"
+133,GIB,September 27 2025,13:09,3.1,12:20,flowers. 2 leaves. very sad and floppy dude
+129,GIB,September 27 2025,14:12,1.8,13:24,
+148,GIB,September 27 2025,15:07,0.8,14:24,
+170,GIB,September 27 2025,16:05,1,15:22,flowers. 2 leaves. very sad and floppy dude
+172,ALB,September 27 2025,10:20,1,10:05,2 leaves/ redo/ much better
+184,ALB,September 27 2025,11:28,1.5,10:48,flowers
+146,ALB,September 27 2025,12:22,1.6,11:47,flowers 3 leaves
+143,ALB,September 27 2025,13:05,2.5,12:34,
+140,ALB,September 27 2025,13:54,0.7,13:22,flowers
+149,ALB,September 27 2025,14:39,3,14:09,flowers. 
+190,ALB,September 27 2025,15:22,2.3,14:51,
+192,ALB,September 27 2025,16:01,1.1,15:35,
+20,GIB,September 25 2025,10:25,0.7,9:39,flowers. fan at 5000 entire day?rerun ACI and rerun/check fan
+39,GIB,September 25 2025,11:04,1.8,10:40,fan at 5000 entire day? rerun ACI and rerun/check fan
+46,GIB,September 25 2025,11:36,2.4,11:21,REDID curve. odd shape. fan at 5000 entire day? rerun ACI and rerun/check fan
+46,GIB,September 25 2025,12:07,2.4,,like negative c-. fan at 5000 entire day? rerun ACI and rerun/check fan
+46,GIB,September 25 2025,13:20,2.3,13:10,redid. fan at 5000 entire day? rerun ACI and rerun/check fan
+12,GIB,September 25 2025,14:09,1,13:25,bad curve. fan at 5000 entire day? rerun ACI and rerun/check fan
+12,GIB,September 25 2025,15:11,0.6,14:23,new leaf. lower leaf. fan at 5000 entire day? rerun ACI and rerun/check fan
+14,GIB,September 25 2025,16:00,2.1,,update fan 10000
+135,ALB,September 26 2025,10:46,2.7,10:10,A-3 1950
+165,ALB,September 26 2025,11:31,3.4,11:04,
+153,ALB,September 26 2025,12:12,1.4,,
+46,ALB,September 26 2025,12:45,2.5,12:26,redo 9/25
+22,ALB,September 26 2025,13:51,2.2,13:13,s graph 
+35,ALB,September 26 2025,14:50,1,14:15,2. iHg graph
+189,ALB,September 26 2025,15:30,4.2,15:00,
+179,ALB,September 26 2025,16:38,1.5,15:43,
+145,STAN,September 26 2025,10:49,0.7,10:12,A-11 950
+5,STAN,September 26 2025,11:33,3,11:06,
+5,STAN,September 26 2025,12:14,3,11:46,and curve
+171,STAN,September 26 2025,13:14,1.1,12:26,
+142,STAN,September 26 2025,13:56,2.3,,
+47,STAN,September 26 2025,14:51,2.7,14:20,
+166,STAN,September 26 2025,15:17,2.1,,
+184,STAN,September 26 2025,15:57,1.6,15:31,1. CO2 certridge failed mid run
+188,OZZ,September 26 2025,10:48,0.9,10:20,1. missed doing dynamic matches. ran - 11:13 after. 2 leaves
+188,OZZ,September 26 2025,11:45,1,11:15,2 leaves. 1 new biggest
+4,OZZ,September 26 2025,12:32,0.7,11:57,
+7,OZZ,September 26 2025,13:28,2.7,12:49,
+41,OZZ,September 26 2025,14:40,0.7,,2. rerun ACI curve it time
+164,OZZ,September 26 2025,15:39,1.1,14:56,2 leaves
+177,OZZ,September 26 2025,16:19,1.1,15:06,
+130,GIB,September 26 2025,10:55,0.4,10:23,flowers. 
+20,GIB,September 26 2025,11:52,0.7,11:15,green. 30A. 12000. redo 09/2025
+136,GIB,September 26 2025,12:36,1.8,12:06,flowers
+14,GIB,September 26 2025,13:18,2,12:52,redo 09/25
+37,GIB,September 26 2025,14:05,2.8,13:31,1. graphy wonky. graph kinda weird but okay for now come back later if time allows. bundles up
+48,GIB,September 26 2025,15:15,1.6,14:28,
+161,GIB,September 26 2025,16:00,0.6,15:29,"bad, rerun later"
+38,ALB,September 26 2025,11:33,2.5,10:45,PATR 1900
+185,ALB,September 26 2025,12:16,0.5,11:57,stem looks very dead. photo
+39,ALB,September 26 2025,12:51,1.6,12:31,redo 09/25
+16,ALB,September 26 2025,14:02,2.1,13:13,flower
+186,ALB,September 26 2025,15:20,0.8,14:27,2 leaves.
+178,ALB,September 26 2025,15:59,0.9,15:38,"2 leaves, flowers"
+331,YADI,Sepetember 29 2025,10:55,1.2,10:28,
+374,YADI,Sepetember 29 2025,11:40,2,11:07,1
+325,YADI,Sepetember 29 2025,12:43,2.5,12:04,turning purple?
+356,YADI,Sepetember 29 2025,13:42,1,12:59,2 leaves.
+337,YADI,Sepetember 29 2025,15:22,1.2,14:03,missing SLA tag maybe on Jumboz?
+371,STAN,Sepetember 29 2025,10:58,1.4,10:10,
+351,STAN,Sepetember 29 2025,11:42,3.1,11:12,
+362,STAN,Sepetember 29 2025,12:44,0.6,12:01,2 leaves
+369,STAN,Sepetember 29 2025,13:42,0.5,13:04,
+361,STAN,Sepetember 29 2025,15:11,0.9,14:46,2 leaves. both not looking great but best available
+360,STAN,Sepetember 29 2025,,1.5,15:23,
+365,GIB,Sepetember 29 2025,10:45,3.8,10:18,
+330,GIB,Sepetember 29 2025,11:40,1,11:01,flowers. 2 leaves
+321,GIB,Sepetember 29 2025,12:36,1,11:54,
+368,GIB,Sepetember 29 2025,13:29,1.3,12:49,
+340,GIB,Sepetember 29 2025,14:31,0.9,13:44,flowers
+327,GIB,Sepetember 29 2025,15:30,3,14:47,redo from stan. wonky but okay. redo if time allows
+367,ALB,Sepetember 29 2025,10:40,2.2,10:15,
+326,ALB,Sepetember 29 2025,11:22,2,10:52,"lots of browning at lower leaves. rerun curve if time, wonky but okay"
+324,ALB,Sepetember 29 2025,12:07,1.8,11:35,leaves starting to yellow
+332,ALB,Sepetember 29 2025,13:08,0.9,12:21,"flowers. weird curves for dark. tried another lead. (2 curves (dr) foo Aci leaf, new leaf for dark at -1826) better might be better aci leaf."
+354,ALB,Sepetember 29 2025,14:14,0.9,13:23,very low A
+373,ALB,Sepetember 29 2025,15:08,3.3,14:26,
+364,ALB,Sepetember 29 2025,15:54,1,15:22,2 leaves
+,YADI,Sepetember 29 2025,,,,"had very low dark resp. after range match, seems okay. Base A before that was like -6. ran 330. will rerun on stan."
+212,YADI,September 22 2025,13:12,0.7,,
+234,YADI,September 22 2025,14:09,0.4,,flowers
+193,YADI,September 22 2025,15:14,1,,
+214,YADI,September 22 2025,15:46,2.1,,
+236,YADI,September 22 2025,16:46,0.6,,
+281,STAN,September 22 2025,10:25,1,,flowering
+317,STAN,September 22 2025,11:11,2.6,,
+216,STAN,September 22 2025,12:02,1.7,,flowers
+247,STAN,September 22 2025,12:58,2.6,,
+242,STAN,September 22 2025,14:18,0.3,,stan died in middle missing ID?
+196,STAN,September 22 2025,16:47,0.5,15:48,flowers. CO2 ran out
+293,OZZ,September 22 2025,10:23,2.7,,
+314,OZZ,September 22 2025,11:15,0.7,,bad curve. but plant very deadish
+314,OZZ,September 22 2025,11:54,0.4,,new leafs. worse.
+202,OZZ,September 22 2025,12:56,0.6,,flowers
+249,OZZ,September 22 2025,13:51,0.5,,
+199,OZZ,September 22 2025,14:41,1.8,,
+205,OZZ,September 22 2025,15:45,2.6,,
+250,GIB,September 22 2025,10:11,1,,2 leaves. flower
+257,GIB,September 22 2025,11:35,0.9,,great
+206,GIB,September 22 2025,12:37,1.9,,
+226,GIB,September 22 2025,13:56,0.7,,
+244,GIB,September 22 2025,15:23,0.4,,"C4 PACO, shade"
+229,GIB,September 22 2025,16:11,2.7,,
+225,ALB,September 22 2025,10:07,1.3,,2 leaves
+263,ALB,September 22 2025,11:40,2.9,,2nd attempt. not sure why
+263,ALB,September 22 2025,12:57,2.9,,
+237,ALB,September 22 2025,13:55,2,,
+195,ALB,September 22 2025,15:12,0.7,,
+224,ALB,September 22 2025,16:03,2.1,,
+337,YADI,September 30 2025,10:53,0.7,10:24,2 leaves
+363,YADI,September 30 2025,11:27,1.1,11:06,
+333,YADI,September 30 2025,12:34,2.3,11:43,
+376,YADI,September 30 2025,13:12,1.3,12:49,1st curve yadi = weird retry
+86,YADI,September 30 2025,13:30,1.8,12:34,bad curve
+86,YADI,September 30 2025,14:18,2.4,13:47,
+88,YADI,September 30 2025,15:06,2.1,2:34,50 red
+72,YADI,September 30 2025,,1.6,15:21,
+342,STAN,September 30 2025,11:21,2,10:48,flowers and not 100 save licor leaf
+345,STAN,September 30 2025,12:00,0.8,11:35,flowers
+352,STAN,September 30 2025,12:56,1.4,12:16,
+82,STAN,September 30 2025,1:39,1,13:10,flowers
+94,STAN,September 30 2025,14:21,1.8,1:53,
+75,STAN,September 30 2025,15:06,0.7,2:38,flowers
+120,STAN,September 30 2025,15:49,1.2,15:17,
+380,OZZ,September 30 2025,11:00,1,10:07,3 leaves
+372,OZZ,September 30 2025,11:44,0.9,11:16,2 leaves
+341,OZZ,September 30 2025,12:39,2.5,12:15,flowers
+384,OZZ,September 30 2025,1:04,2.4,12:55,
+90,OZZ,September 30 2025,1:59,1.1,13:15,flowers. 2 leaves
+100,OZZ,September 30 2025,2:39,1,14:13,2 leaves
+115,OZZ,September 30 2025,15:19,1.2,14:56,
+355,GIB,September 30 2025,11:30,3.1/2.76,10:55,
+322,GIB,September 30 2025,12:11,1,11:46,2 leaves. flowers
+379,GIB,September 30 2025,12:34,1.1,12:01,
+381,GIB,September 30 2025,1:12,2.6,12:48,
+81,GIB,September 30 2025,2:01,0.9,1:26,
+106,GIB,September 30 2025,2:45,1,,2 leaves
+112,GIB,September 30 2025,15:29,2,14:59,
+347,ALB,September 30 2025,10:39,0.7,10:11,deleted curve
+350,ALB,September 30 2025,11:23,1.7,10:54,
+343,ALB,September 30 2025,12:18,2.9/2.76,11:39,
+366,ALB,September 30 2025,12:47,2.4,12:30,
+384,ALB,September 30 2025,1:29,1.7,12:59,"*correct. has 2 curve times on albert and yadi, may be a duplicate or may be missing data sheet"
+96,ALB,September 30 2025,2:13,1.9,1:43,flowers
+114,ALB,September 30 2025,15:08,0.9,2:26,flowers. 2 leaves
+102,ALB,September 30 2025,15:56,2.2,15:20,
+335,ALB,September 30 2025,,,,"may be duplicated or may be missing 335, not written on datasheet"
+346,YADI,September 28 2025,10:24,1,9:57,flowers. 2 leaves. yellowing
+155,YADI,September 28 2025,11:03,1.1,10:41,
+156,YADI,September 28 2025,12:16,1.2,11:17,2 leaves
+160,YADI,September 28 2025,12:58,2.2,12:34,flowers. might not be aci leaf for dark -> found licor leaf for SLA
+329,YADI,September 28 2025,13:53,1.6,13:18,2 leaves
+355,YADI,September 28 2025,14:31,1.9,14:09,2 leaves
+378,YADI,September 28 2025,15:28,0.9,14:45,"flowers. 2 leaves. wonky curve, redo if time allows"
+158,STAN,September 28 2025,10:25,2.3,10:04,
+152,STAN,September 28 2025,11:19,2.1,10:41,flowers
+175,STAN,September 28 2025,12:18,1.9,11:33,"aci curve leaf fell off. used diff for dark resp., SLA on aci curve leaf tough"
+168,STAN,September 28 2025,13:00,1.3,12:34,
+338,STAN,September 28 2025,13:51,1.1,13:17,flowers. 2 leaves. lots of yellow/brown leaves
+358,STAN,September 28 2025,14:33,2.1,14:04,
+383,STAN,September 28 2025,15:20,2.3,14:48,
+174,OZZ,September 28 2025,10:24,2.5,9:58,"aci curve leaf had rip, used diff for dark resp. will try to use same leaf for SLA"
+323,OZZ,September 28 2025,11:19,1.1,10:38,
+167,OZZ,September 28 2025,12:17,2.3,11:35,
+173,OZZ,September 28 2025,12:59,3.2,12:31,
+349,OZZ,September 28 2025,13:46,2.6,13:12,
+359,OZZ,September 28 2025,14:33,2.6,13:59,
+348,OZZ,September 28 2025,15:19,1,14:50,flowers
+336,GIB,September 28 2025,11:11,1.8,10:40,
+151,GIB,September 28 2025,12:22,2.9,11:28,"wonky graphy, remeasure if time"
+187,GIB,September 28 2025,13:04,1.1,12:35,
+334,GIB,September 28 2025,13:39,2,13:16,flowers 
+344,GIB,September 28 2025,14:20,1.9,13:51,
+353,GIB,September 28 2025,15:11,1,14:32,2 leaves.
+357,GIB,September 28 2025,15:52,2.7,15:24,
+191,ALB,September 28 2025,10:25,2.3,10:01,
+328,ALB,September 28 2025,11:07,1.8,10:37,flowers
+144,ALB,September 28 2025,13:21,1.6,12:48,"flowers. CO2 cartridge died, new leaf time. Rdark first curve +, redo (1651 on Gib)"
+339,ALB,September 28 2025,14:02,1,13:34,lots of yellowing. red spots on tips
+352,ALB,September 28 2025,14:53,1.7,14:14,flowers
+370,ALB,September 28 2025,15:33,1.2,15:06,3 leaves. very limp
+291,YADI,September 20 2025,10:28,0.9,,A=16. gsw=0.11. looks good
+318,YADI,September 20 2025,11:42,1.7,,A=9.gsw=0.2. great curve!
+277,YADI,September 20 2025,13:05,2.76,,
+289,YADI,September 20 2025,13:55,1,,A=9.7. g=0.07. great curve. 2 leaves
+288,YADI,September 20 2025,14:55,2.1,,flowers. A=30. gsw=0.38. great curve
+306,YADI,September 20 2025,15:37,1,,"3 leaves. awful -A, prob dead"
+285,YADI,September 20 2025,16:36,2.4,,burned top leaves. photo growth chamber light! whoops
+316,STAN,September 20 2025,14:52,1,,forgot to start logging first curve.
+278,STAN,September 20 2025,15:40,2.2,,
+316,OZZ,September 20 2025,11:02,0.4,,
+274,OZZ,September 20 2025,13:58,0.6,,good curve. flower
+298,OZZ,September 20 2025,14:42,1.2,,3 leaves. kinda all over place chart
+300,OZZ,September 20 2025,15:40,0.4,,911 over curve but okg
+280,OZZ,September 20 2025,16:36,1.6,,
+287,GIB,September 20 2025,13:37,2.5,,A=15. gsw=0.13. beautiful curve
+273,GIB,September 20 2025,14:41,0.7,,
+275,GIB,September 20 2025,16:03,0.9,,okay curve oh.
+276,GIB,September 20 2025,16:50,0.8,,
+283,ALB,September 20 2025,11:05,1,,A=28. gsw=0.15. okay curve mid middle
+284,ALB,September 20 2025,11:54,1,,measured mlk on another peaf low psi. okay curve
+282,ALB,September 20 2025,14:43,0.6,,
+265,ALB,September 20 2025,16:03,0.7,,
+259,ALB,September 20 2025,16:44,1,,
+305,YADI,September 21 2025,10:31,0.5,,photo 10:52. drops? okay?
+305,YADI,September 21 2025,11:31,,,A=9.gsw=0.10 redo
+279,YADI,September 21 2025,12:39,2.6,,35A top
+258,YADI,September 21 2025,13:27,1,,okay
+272,YADI,September 21 2025,14:27,2.1,,great curve
+301,YADI,September 21 2025,15:15,2.6,,great. A =12
+268,YADI,September 21 2025,16:09,0.6,,okay
+310,YADI,September 21 2025,16:57,2,,
+269,YADI,September 21 2025,,2.7,,closed then cleared log
+312,STAN,September 21 2025,10:34,1.2,,good
+308,STAN,September 21 2025,11:34,0.6,,A=16.gsw=0.09
+309,STAN,September 21 2025,12:25,3.1,,
+260,STAN,September 21 2025,13:24,0.8,,
+270,STAN,September 21 2025,14:17,1.9,,kinda bad
+270,STAN,September 21 2025,15:18,1.9,,redo. photo - 342. not great
+304,STAN,September 21 2025,16:12,1.5,,
+294,STAN,September 21 2025,?,?,,measured a 294 but not sure where?
+296,STAN,September 21 2025,17:31,1.4,,ID says 294
+290,OZZ,September 21 2025,10:34,0.7,,"bad, all over place"
+290,OZZ,September 21 2025,11:33,0.7,,redo. A=3. gsw=0.01. all over place curve
+266,OZZ,September 21 2025,12:41,0.5,,flowering okay
+261,OZZ,September 21 2025,13:35,2.4,,
+271,OZZ,September 21 2025,14:29,3.2,,bad redo
+271,OZZ,September 21 2025,15:30,3.2,,2nd attempt. great!
+292,OZZ,September 21 2025,16:30,0.5,,photo 449
+295,OZZ,September 21 2025,17:14,1.9,,
+269,OZZ,September 21 2025,18:27,3,,okay. only went to zoo. maybe redo later?
+267,GIB,September 21 2025,10:41,1.1,,okay?
+267,GIB,September 21 2025,11:40,1.1,,redo
+264,GIB,September 21 2025,12:47,1.9,,
+262,GIB,September 21 2025,13:34,2.4,,
+303,GIB,September 21 2025,14:23,1.1,,tiny individual. double check leaf size. holes in leaf. okay. 1.1 correct
+315,GIB,September 21 2025,15:24,1.3,,good
+294,GIB,September 21 2025,16:06,1.9,,great
+307,GIB,September 21 2025,16:51,1.4,,
+311,GIB,September 21 2025,17:45,1.1,,
+319,ALB,September 21 2025,10:37,1.7,,good
+313,ALB,September 21 2025,11:37,0.5,,A=20. gsw=0.19
+261,ALB,September 21 2025,12:43,2.4,,iffy curve. entire stem broke off
+268,ALB,September 21 2025,13:54,0.6,,okay. ruined last bit of log. might rerun
+299,ALB,September 21 2025,14:36,1.2,,okay curve
+286,ALB,September 21 2025,15:20,1.7,,
+302,ALB,September 21 2025,16:14,2.2,,
+320,ALB,September 21 2025,17:03,1,,
+108,YADI,October 1 2025,10:36,1.4,9:57,2 leaves
+77,YADI,October 1 2025,11:35,2.2,10:54,awful curve
+77,YADI,October 1 2025,,2.2,11:36,redo new leaf
+113,STAN,October 1 2025,10:50,1.5,10:00,2 leave
+127,STAN,October 1 2025,11:45,2.5,11:05,
+71,STAN,October 1 2025,12:40,2.1,12:00,
+116,STAN,October 1 2025,13:33,1.1,12:58,
+95,STAN,October 1 2025,14:56,2.3,14:06,didnt update into 1. curve looked great it want to use need to update into 
+95,STAN,October 1 2025,15:54,2.3,15:14,curve okay but increase then decrease. maybe use 1456 curve
+131,OZZ,October 1 2025,10:33,1.3,10:00,redo! 2 leaves
+111,OZZ,October 1 2025,11:22,3.2,10:47,
+103,OZZ,October 1 2025,12:07,2.1,11:34,
+76,OZZ,October 1 2025,13:12,0.7,12:24,flowers
+128,OZZ,October 1 2025,14:02,1.9,13:30,
+97,OZZ,October 1 2025,14:55,0.9,14:15,2 leaves. 18:43 dr curve = bad
+70,OZZ,October 1 2025,15:53,1.6,15:11,"lots of brown leaves. colder, closer to pot"
+93,OZZ,October 1 2025,17:23,2.6,16:11,lots of caterpillar munch bites
+105,GIB,October 1 2025,10:40,1,10:07,2 leaves
+89,GIB,October 1 2025,11:41,1,11:02,
+124,GIB,October 1 2025,12:44,1,11:52,2 leaves
+77,GIB,October 1 2025,13:39,2.2,13:01,"kinda wonky graph, maybe redo? one -10 point IDK why"
+335,GIB,October 1 2025,15:00,2.8,14:15,redo from 09/30? MIA individuals
+74,GIB,October 1 2025,15:45,1,15:15,flowers
+83,GIB,October 1 2025,16:22,0.9,15:58,
+107,GIB,October 1 2025,17:03,1.3,16:34,
+66,ALB,October 1 2025,10:47,0.9,10:05,flowers. 2 leaves. 18:50 dr curve = bad
+109,ALB,October 1 2025,11:36,3.5,11:02,
+69,ALB,October 1 2025,12:40,2.7,11:51,
+80,ALB,October 1 2025,13:35,1.6,12:53,flowers. wonky graph redo
+80,ALB,October 1 2025,14:55,1.8,14:11,much better!
+121,ALB,October 1 2025,15:54,1.3,15:08,
+122,ALB,October 1 2025,16:39,1,16:11,flowers. 2 leaves
+118,ALB,October 1 2025,17:24,2.5,16:51,
+55,,October 1 2025,,,,too small to sample
+79,YADI,October 2 2025,10:28,2.6,10:04,disp purple
+104,YADI,October 2 2025,11:47,1.6,10:45,A=15. *yadi test
+119,YADI,October 2 2025,12:34,2.7,12:06,
+126,YADI,October 2 2025,13:53,2.4,12:53,*yadi test
+8,YADI,October 2 2025,15:04,1.8,14:22,flower
+71,YADI,October 2 2025,15:50,2,15:12,
+78,STAN,October 2 2025,10:20,0.9,10:05,PATR blue
+126,STAN,October 2 2025,11:48,2.4,10:48,*yadi test
+101,STAN,October 2 2025,12:36,3.4,12:03,2 curves (yadi)
+104,STAN,October 2 2025,13:55,1.6,12:54,*yadi test
+55,STAN,October 2 2025,,,,too small to sample
+382,STAN,October 2 2025,15:05,2.4,14:22,
+70,STAN,October 2 2025,15:52,1.6,15:20,
+98,OZZ,October 2 2025,10:33,0.9,10:03,PAHR pink. flowers. 2 leaves
+99,OZZ,October 2 2025,11:47,1.3,10:48,
+665,OZZ,October 2 2025,13:21,1.6,12:10,caterpillar bites on lots of leaves. 2 leaves
+125,OZZ,October 2 2025,14:34,3.2,13:41,
+110,GIB,October 2 2025,10:37,2.2,10:03,
+123,GIB,October 2 2025,11:53,1.3,10:55,1727 = bad graph + values (stan) redo later
+73,GIB,October 2 2025,12:57,1.1,12:13,white PAVI. found
+91,GIB,October 2 2025,13:45,0.6,13:10,flower 1
+91-upper,GIB,October 2 2025,14:22,1.3,13:59,upper leaf. comparsion. lower machine
+92,GIB,October 2 2025,15:12,0.7,14:35,flowers
+87,ALB,October 2 2025,10:33,2.4,10:01,purple disp
+68,ALB,October 2 2025,11:48,1.1,10:51,2 leaves. PACO green
+117,ALB,October 2 2025,12:36,3,12:06,orange PAAN
+67,ALB,October 2 2025,13:22,0.8,12:52,
+85,ALB,October 2 2025,14:16,2.3,13:40,caterpillar damage
+84,ALB,October 2 2025,15:07,0.9,14:34,"2 curves. (1 on yadi, and 1 on albert). big stem with leaves fell off shoved back into pot"
+,,October 2 2025,,,,
+,,October 2 2025,,,,
