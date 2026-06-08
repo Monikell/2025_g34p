@@ -17,8 +17,8 @@ library(readxl)
 library(ggplot2)
 
 # data -------------------------------------------------------------------------
-shoots <- read_excel("../biomass/biomass_shoots.xlsx")
-roots <- read_excel("../biomass/biomass_roots_v2.xlsx")
+shoots <- read_excel("./biomass/biomass_shoots.xlsx")
+roots <- read_excel("./biomass/biomass_roots_v2.xlsx")
 meta_data <- read.csv("../data_meta/plant_ids.csv")
 
 
@@ -44,11 +44,23 @@ biomass_total <- left_join(biomass_total, meta_data, by = "individual")
 
 biomass_total$species_code
 
-ggplot(biomass_total,aes(phosphorous_p1.p4, biomass_pot_volume_ratio)) +
-  geom_boxplot()
+ggplot(biomass_total,
+       aes(phosphorous_p1.p4, biomass_pot_volume_ratio)) +
+  geom_boxplot() +
+  geom_jitter(aes(color = shade_00s_70s),
+              width = 0.2,
+              alpha = 0.7) +
+  facet_wrap(~ species_code)
+
 
 ggplot(biomass_total, aes(phosphorous_p1.p4, biomass_pot_volume_ratio)) + 
   geom_boxplot(outlier.shape = NA) + 
   geom_jitter(aes(color = species_code, shape = species_code), 
               size = 3)
 
+biomass_total$shade_00s_70s
+
+
+biomass_total$individual
+
+write.csv(biomass_total, "r_data/biomass_total.csv")
