@@ -64,3 +64,25 @@ biomass_total$shade_00s_70s
 biomass_total$individual
 
 write.csv(biomass_total, "r_data/biomass_total.csv")
+
+########### 
+# look at the young growing height; were the young plants still pot bound; 
+# did we see the same pattern. 
+
+# look at heights, preveent. Discussion. 
+
+# flowering, they hit their max size. 
+
+# height, during the lifespan. Height platues. first p (non 0 P. 
+# consistnetly throughtout their lifespan. If oyu see a linear trend and then a
+# platue when they are older. 
+
+# max P reached. 
+
+# height data overtime.
+# easy to extract data/ do we see the. 
+
+# low light= needs less P. evidence. traits being more similar in 0 to 2nd p. 
+
+# soil ll/ HL
+## pot binding should have negetated.
