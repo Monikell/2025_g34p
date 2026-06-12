@@ -63,7 +63,7 @@ biomass_total$shade_00s_70s
 
 biomass_total$individual
 
-write.csv(biomass_total, "r_data/biomass_total.csv")
+# write.csv(biomass_total, "r_data/biomass_total.csv")
 
 ########### 
 # look at the young growing height; were the young plants still pot bound; 

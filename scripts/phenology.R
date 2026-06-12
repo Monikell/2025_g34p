@@ -31,8 +31,8 @@ data_pheno_full <- left_join(data_pheno, meta_pheno,
 data_pheno_full <- data_pheno_full %>%
   mutate(
     id = case_when(
-      X5_id_scan == "" ~ as.character(X6_id_number),
-      TRUE ~ str_extract(X5_id_scan, "\\d+$")
+      X6_id_scan == "" ~ as.character(X7_id_number),
+      TRUE ~ str_extract(X6_id_scan, "\\d+$")
     ),
     id = as.numeric(id)
   )
@@ -47,16 +47,30 @@ data_pheno_full <- left_join(data_pheno_full, meta_plant,
 data_pheno_full <- data_pheno_full %>%
   drop_na('id')
 
+## convert dates into dates
+data_pheno_full <- data_pheno_full %>%
+  mutate(X1_date = as.Date(X1_date, 
+                           format = "%d/%m/%Y"))
 
-## adding weeks
-data_pheno_full_weeks <- data_pheno_full %>%
-  mutate(week = case_when(
-    X1_date %in% c("14/08/2025", "16/08/2025") ~ "week 1",
-    X1_date %in% c("21/08/2025") ~ "week 2",
-    X1_date %in% c("28/08/2025") ~ "week 3",
-    TRUE ~ "other"
-  ))
+## adding week #
+data_pheno_full$week_number <- strftime(data_pheno_full$X1_date, 
+                                        format ='%V')
 
+
+# ## adding weeks
+# data_pheno_full_weeks <- data_pheno_full %>%
+#   mutate(week = case_when(
+#     X1_date %in% c("14/08/2025", "16/08/2025") ~ "week 1",
+#     X1_date %in% c("21/08/2025") ~ "week 2",
+#     X1_date %in% c("28/08/2025") ~ "week 3",
+#     TRUE ~ "other"
+#   ))
+
+
+# prepping data for plotting
+data_pheno_full$week_number <- as.factor(data_pheno_full$week_number)
+data_pheno_full$phosphorous_p1.p4 <- as.factor(data_pheno_full$phosphorous_p1.p4)
+data_pheno_full$shade_00s_70s <- as.factor(data_pheno_full$shade_00s_70s)
 
 # plotting ---------------------------------------------------------------------
 
@@ -93,6 +107,7 @@ ggplot(data_pheno_full_weeks_filtered,
   facet_wrap( ~ c3_c4)
 
 
+
 ## species plant height
 ggplot(data_pheno_full_weeks_filtered, 
        aes(x = as.factor(week), 
@@ -100,3 +115,14 @@ ggplot(data_pheno_full_weeks_filtered,
            fill = as.factor(phosphorous_p1.p4))) +
   geom_boxplot() +
   facet_wrap( ~ c3_c4 + usda_code)
+
+
+
+
+## height how does that look through the weeks (v1)
+ggplot(data_pheno_full, aes(x = week_number, 
+                            y = X9_height_cm,
+                            fill = phosphorous_p1.p4)) +
+  geom_boxplot() +
+  facet_wrap(~ shade_00s_70s)
+
