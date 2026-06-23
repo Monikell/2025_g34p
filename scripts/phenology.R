@@ -10,12 +10,15 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 library(stringr)
+library(readxl)
 
 # data -------------------------------------------------------------------------
 
 ## phenology data
 meta_pheno <- read.csv("../data/phenology/form-1__g34p-phenology.csv")
 data_pheno <- read.csv("../data/phenology/branch-1__phenology.csv")
+data_pheno_mid <- read_excel("../data/phenology/plant_height_mid.xlsx")
+data_pheno_last <- read_excel("../data/phenology/plant_height_last_date.xlsx")
 
 ## plant and block information
 meta_plant <- read.csv("../data_meta/plant_ids.csv")
@@ -25,7 +28,6 @@ meta_plant <- read.csv("../data_meta/plant_ids.csv")
 ## merging meta data with data
 data_pheno_full <- left_join(data_pheno, meta_pheno, 
                              by = c('ec5_branch_owner_uuid' = 'ec5_uuid'))
-
 
 ## creating single id column 
 data_pheno_full <- data_pheno_full %>%
@@ -37,20 +39,51 @@ data_pheno_full <- data_pheno_full %>%
     id = as.numeric(id)
   )
 
-
 ## adding plant and block information
 data_pheno_full <- left_join(data_pheno_full, meta_plant,
                              by = c('id' = 'individual'))
-
 
 ## removing NA value form id, removes 1 row, which was just a note. 
 data_pheno_full <- data_pheno_full %>%
   drop_na('id')
 
+## updating column names 
+data_pheno_full <- data_pheno_full %>%
+  rename(height = X9_height_cm,
+         date = X1_date)
+
+
+## removing extra columns
+data_pheno_last <- data_pheno_last %>%
+  select(date, id, height, notes)
+  
+
+## merging data sets entered in Excel
+data_pheno_mid_last <- bind_rows(data_pheno_mid, data_pheno_last)
+
+
+## combining the notes column
+data_pheno_mid_last <- data_pheno_mid_last %>%
+  unite(col = "notes", note, notes, 
+        remove = TRUE,
+        na.rm = TRUE)
+
+# ## merge excel and epicollect data into one!
+# data_pheno_full <- bind_rows(data_pheno_full, data_pheno_mid_last)
+
 ## convert dates into dates
 data_pheno_full <- data_pheno_full %>%
-  mutate(X1_date = as.Date(X1_date, 
+  mutate(date = as.Date(date, 
                            format = "%d/%m/%Y"))
+
+## convert dates into dates
+data_pheno_mid_last <- data_pheno_mid_last %>%
+  mutate(date = as.Date(date, 
+                           format = "%d/%m/%Y"))
+
+## mergining epicollect and excel data together
+data_pheno_full <- cbind(data_pheno_full, data_pheno_mid_last)
+
 
 ## adding week #
 data_pheno_full$week_number <- strftime(data_pheno_full$X1_date, 
