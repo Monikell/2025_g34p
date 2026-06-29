@@ -20,10 +20,14 @@ data_pheno <- read.csv("../data/phenology/branch-1__phenology.csv")
 data_pheno_mid <- read_excel("../data/phenology/plant_height_mid.xlsx")
 data_pheno_last <- read_excel("../data/phenology/plant_height_last_date.xlsx")
 
+## li600 data 
+data_li600_v1 <- read.csv("../data/li_600/g34p_light_v2/2025-10-05/g34p_light_v2_mrk_2025_10_07_15_21_46_1.csv")
+
 ## plant and block information
 meta_plant <- read.csv("../data_meta/plant_ids.csv")
 
-# cleaning ---------------------------------------------------------------------
+# Phenology --------------------------------------------------------------------
+## cleaning --------------------------------------------------------------------
 
 ## merging meta data with data
 data_pheno_full <- left_join(data_pheno, meta_pheno, 
@@ -101,10 +105,9 @@ data_pheno_heights$shade_00s_70s <- as.factor(data_pheno_heights$trt_light)
 
 
 
+## figures ---------------------------------------------------------------------
 
-# figures ----------------------------------------------------------------------
-
-## figures data prep -----------------------------------------------------------
+# figures data prep ----------------------------------------------------------##
 ## prepping data, trying to isolate just weeks with biggest observations
 filtered_data <- data_pheno_heights %>%
   group_by(week_number) %>%
@@ -266,3 +269,7 @@ ggplot(filtered_data, aes(x = week_number, y = height, fill = trt_p)) +
 
 
 # write.csv(data_pheno_heights, "../data/r_data/pheight.csv")
+
+
+
+# li600 ------------------------------------------------------------------------
