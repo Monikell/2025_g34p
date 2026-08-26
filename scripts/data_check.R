@@ -22,13 +22,27 @@ library(purrr)
 library(tidyr)
 library(stringr)
 library(lubridate)
+library(readxl)
 
+###############################################################################X
+# directory --------------------------------------------------------------------
+###############################################################################X
+setwd("~/git/2025_g34p/scripts")
+
+
+###############################################################################X
 # data -------------------------------------------------------------------------
+###############################################################################X
 
 ## individual plant ids
 id_list_plants <- read.csv("../data_meta/plant_ids.csv")
 
+## ground pfrac weights; see the breakdown of low weights
+pfrac_leaf_weight <- read.csv("../data/pfrac/MRK_G34P_2025_Pfrac_ground.csv")
+
+###############################################################################X
 # data: gas exchange ----------------------------------------------------------- 
+###############################################################################X
 
 ## Creating file paths for each machine
 albert <- "../data/li_6800/g34p_albert/"
@@ -668,3 +682,50 @@ mia_sla_data <- anti_join(id_list_plants, files_sla_ids,
 ## mrk notes made
 # write.csv(mia_sla_data, "../data/missing_data_check/mia_sla_data.csv")
 
+
+
+###############################################################################X
+# PFRAC leaf mass --------------------------------------------------------------
+###############################################################################X
+
+# update the data info
+pfrac_leaf_weight$individual <- as.integer(pfrac_leaf_weight$individual)
+
+# create single list
+pfrac_leaf <- left_join(id_list_plants, pfrac_leaf_weight)
+
+pfrac_leaf$phosphorous_p1.p4
+
+ggplot(data = pfrac_leaf, mapping = aes(x = shade_00s_70s, y = weight.mg.,
+                                        fill = phosphorous_p1.p4)) +
+  geom_boxplot() +
+  theme_bw()
+
+
+ggplot(data = pfrac_leaf, mapping = aes(x = shade_00s_70s, y = weight.mg.,
+                                        color = phosphorous_p1.p4)) + 
+  geom_jitter() +
+  theme_bw()
+
+
+
+###############################################################################x
+# under 50 mg ------------------------------------------------------------------
+###############################################################################x
+
+pfrac_under_50mg <- pfrac_leaf %>%
+  subset(weight.mg. < 50)
+
+pfrac_over_50mg <- pfrac_leaf %>%
+  subset(weight.mg. >= 50)
+
+
+
+pfrac_over_10mg <- pfrac_leaf %>%
+  subset(weight.mg. >= 10)
+
+pfrac_over_15mg <- pfrac_leaf %>%
+  subset(weight.mg. >= 15)
+
+
+# write.csv(pfrac_leaf, "../data/r_data/pfrac_leaf.csv")

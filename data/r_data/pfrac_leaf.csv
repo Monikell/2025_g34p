@@ -1,0 +1,390 @@
+,shade_00s_70s,phosphorous_p1.p4,c3_c4,species_code,color,usda_code,block,rep,individual,note,id_v0,id_v0_noncat,id_barcode_v0,X,X.1,Weight.g.,weight.mg.,Date,Notes
+38,70s,p2,c3,disp,purple,disp2,5,5,303,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-5-303,70s-p2-c3-diac-5-303,*70s-p2-c3-diac-5-303*,NA,*,0.0021,2.1,11/24/2025,
+268,70s,p3,c4,paha,pink,paha,3,3,178,,70s-p3-c4-paha-3-178,70s-p3-c4-paha-3-178,*70s-p3-c4-paha-3-178*,NA,*,0.0023,2.3,11/26/2025,2
+257,00s,p4,c4,paha,pink,paha,2,2,90,,00s-p4-c4-paha-2-90,00s-p4-c4-paha-2-90,*00s-p4-c4-paha-2-90*,NA,*,0.0049,4.9,11/26/2025,2
+39,70s,p3,c3,disp,purple,disp2,5,5,311,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-5-311,70s-p3-c3-diac-5-311,*70s-p3-c3-diac-5-311*,NA,*,0.0054,5.4,11/24/2025,
+292,70s,p3,c4,paha,pink,paha,6,6,370,,70s-p3-c4-paha-6-370,70s-p3-c4-paha-6-370,*70s-p3-c4-paha-6-370*,NA,*,0.0064,6.4,11/24/2025,
+276,70s,p3,c4,paha,pink,paha,4,4,242,,70s-p3-c4-paha-4-242,70s-p3-c4-paha-4-242,*70s-p3-c4-paha-4-242*,NA,*,0.0065,6.5,11/17/2025,
+267,70s,p2,c4,paha,pink,paha,3,3,170,,70s-p2-c4-paha-3-170,70s-p2-c4-paha-3-170,*70s-p2-c4-paha-3-170*,NA,*,0.0069,6.9,11/26/2025,
+112,70s,p3,c3,diol,red,diol,2,2,120,,70s-p3-c3-diol-2-120,70s-p3-c3-diol-2-120,*70s-p3-c3-diol-2-120*,NA,*,0.0073,7.3,11/26/2025,1
+228,70s,p4,c4,paco,green,paco2,4,4,252,,70s-p4-c4-paco-4-252,70s-p4-c4-paco-4-252,*70s-p4-c4-paco-4-252*,NA,*,0.0077,7.7,11/26/2025,2
+282,70s,p1,c4,paha,pink,paha,5,5,290,,70s-p1-c4-paha-5-290,70s-p1-c4-paha-5-290,*70s-p1-c4-paha-5-290*,NA,*,0.0079,7.9,11/21/2025,
+150,00s,p4,c4,paan,orange,paan4,1,1,27,,00s-p4-c4-paan-1-27,00s-p4-c4-paan-1-27,*00s-p4-c4-paan-1-27*,NA,*,0.0084,8.4,11/26/2025,2
+297,00s,p4,c3,patr,blue,patr3,1,1,30,,00s-p4-c3-patr-1-30,00s-p4-c3-patr-1-30,*00s-p4-c3-patr-1-30*,NA,*,0.0092,9.2,11/26/2025,"2, used different standard vial (1.5124)"
+259,70s,p2,c4,paha,pink,paha,2,2,106,,70s-p2-c4-paha-2-106,70s-p2-c4-paha-2-106,*70s-p2-c4-paha-2-106*,NA,*,0.0095,9.5,11/24/2025,
+274,70s,p1,c4,paha,pink,paha,4,4,226,,70s-p1-c4-paha-4-226,70s-p1-c4-paha-4-226,*70s-p1-c4-paha-4-226*,NA,*,0.0098,9.8,11/17/2025,
+236,70s,p4,c4,paco,green,paco2,5,5,316,,70s-p4-c4-paco-5-316,70s-p4-c4-paco-5-316,*70s-p4-c4-paco-5-316*,NA,*,0.0102,10.2,11/21/2025,
+286,00s,p1,c4,paha,pink,paha,6,6,322,,00s-p1-c4-paha-6-322,00s-p1-c4-paha-6-322,*00s-p1-c4-paha-6-322*,NA,*,0.0105,10.5,11/26/2025,
+293,70s,p4,c4,paha,pink,paha,6,6,378,,70s-p4-c4-paha-6-378,70s-p4-c4-paha-6-378,*70s-p4-c4-paha-6-378*,NA,*,0.0105,10.5,11/17/2025,
+275,70s,p2,c4,paha,pink,paha,4,4,234,,70s-p2-c4-paha-4-234,70s-p2-c4-paha-4-234,*70s-p2-c4-paha-4-234*,NA,*,0.0107,10.7,11/26/2025,2
+332,70s,p3,c3,patr,blue,patr3,5,5,310,,70s-p3-c3-patr-5-310,70s-p3-c3-patr-5-310,*70s-p3-c3-patr-5-310*,NA,*,0.0107,10.7,11/26/2025,1
+387,70s,p2,c4,pavi,white,pavi2,6,6,361,,70s-p2-c4-pavi-6-361,70s-p2-c4-pavi-6-361,*70s-p2-c4-pavi-6-361*,NA,*,0.0109,10.9,11/26/2025,
+144,70s,p2,c3,diol,red,diol,6,6,368,,70s-p2-c3-diol-6-368,70s-p2-c3-diol-6-368,*70s-p2-c3-diol-6-368*,NA,*,0.0116,11.6,11/26/2025,2
+40,70s,p4,c3,disp,purple,disp2,5,5,319,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-5-319,70s-p4-c3-diac-5-319,*70s-p4-c3-diac-5-319*,NA,*,0.0119,11.9,11/24/2025,
+250,70s,p2,c4,paha,pink,paha,1,1,42,,70s-p2-c4-paha-1-42,70s-p2-c4-paha-1-42,*70s-p2-c4-paha-1-42*,NA,*,0.012,12,11/26/2025,Real 42
+262,00s,p1,c4,paha,pink,paha,3,3,130,,00s-p1-c4-paha-3-130,00s-p1-c4-paha-3-130,*00s-p1-c4-paha-3-130*,NA,*,0.0121,12.1,11/24/2025,
+389,70s,p4,c4,pavi,white,pavi2,6,6,377,,70s-p4-c4-pavi-6-377,70s-p4-c4-pavi-6-377,*70s-p4-c4-pavi-6-377*,NA,*,0.0126,12.6,11/26/2025,
+188,00s,p1,c4,paan,orange,paan4,6,6,323,,00s-p1-c4-paan-6-323,00s-p1-c4-paan-6-323,*00s-p1-c4-paan-6-323*,NA,*,0.0127,12.7,11/26/2025,
+264,00s,p3,c4,paha,pink,paha,3,3,146,,00s-p3-c4-paha-3-146,00s-p3-c4-paha-3-146,*00s-p3-c4-paha-3-146*,NA,*,0.0127,12.7,11/26/2025,2
+253,70s,p4,c4,paha,pink,paha,1,1,58,,70s-p4-c4-paha-1-58,70s-p4-c4-paha-1-58,*70s-p4-c4-paha-1-58*,NA,*,0.0133,13.3,11/25/2025,
+310,00s,p1,c3,patr,blue,patr3,3,3,134,,00s-p1-c3-patr-3-134,00s-p1-c3-patr-3-134,*00s-p1-c3-patr-3-134*,NA,*,0.0138,13.8,11/26/2025,2
+37,70s,p1,c3,disp,purple,disp2,5,5,295,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-5-295,70s-p1-c3-diac-5-295,*70s-p1-c3-diac-5-295*,NA,*,0.0139,13.9,11/17/2025,
+241,70s,p1,c4,paco,green,paco2,6,6,356,,70s-p1-c4-paco-6-356,70s-p1-c4-paco-6-356,*70s-p1-c4-paco-6-356*,NA,*,0.0139,13.9,11/24/2025,
+243,70s,p3,c4,paco,green,paco2,6,6,372,,70s-p3-c4-paco-6-372,70s-p3-c4-paco-6-372,*70s-p3-c4-paco-6-372*,NA,*,0.0141,14.1,11/25/2025,
+110,70s,p1,c3,diol,red,diol,2,2,104,,70s-p1-c3-diol-2-104,70s-p1-c3-diol-2-104,*70s-p1-c3-diol-2-104*,NA,*,0.0142,14.2,11/24/2025,
+381,70s,p4,c4,pavi,white,pavi2,5,5,313,,70s-p4-c4-pavi-5-313,70s-p4-c4-pavi-5-313,*70s-p4-c4-pavi-5-313*,NA,*,0.0142,14.2,11/17/2025,
+128,70s,p3,c3,diol,red,diol,4,4,248,,70s-p3-c3-diol-4-248,70s-p3-c3-diol-4-248,*70s-p3-c3-diol-4-248*,NA,*,0.0145,14.5,11/24/2025,
+235,70s,p3,c4,paco,green,paco2,5,5,308,,70s-p3-c4-paco-5-308,70s-p3-c4-paco-5-308,*70s-p3-c4-paco-5-308*,NA,*,0.0146,14.6,11/21/2025,
+233,70s,p1,c4,paco,green,paco2,5,5,292,,70s-p1-c4-paco-5-292,70s-p1-c4-paco-5-292,*70s-p1-c4-paco-5-292*,NA,*,0.015,15,11/21/2025,
+252,70s,p3,c4,paha,pink,paha,1,1,50,,70s-p3-c4-paha-1-50,70s-p3-c4-paha-1-50,*70s-p3-c4-paha-1-50*,NA,*,0.0153,15.3,11/25/2025,
+249,70s,p1,c4,paha,pink,paha,1,1,34,,70s-p1-c4-paha-1-34,70s-p1-c4-paha-1-34,*70s-p1-c4-paha-1-34*,NA,*,0.0156,15.6,11/25/2025,
+289,00s,p4,c4,paha,pink,paha,6,6,346,,00s-p4-c4-paha-6-346,00s-p4-c4-paha-6-346,*00s-p4-c4-paha-6-346*,NA,*,0.0158,15.8,11/24/2025,
+86,70s,p1,c3,dicl,yellow,dicl,5,5,293,,70s-p1-c3-dicl-5-293,70s-p1-c3-dicl-5-293,*70s-p1-c3-dicl-5-293*,NA,*,0.0161,16.1,11/21/2025,
+271,00s,p2,c4,paha,pink,paha,4,4,202,,00s-p2-c4-paha-4-202,00s-p2-c4-paha-4-202,*00s-p2-c4-paha-4-202*,NA,*,0.0161,16.1,11/25/2025,
+333,70s,p4,c3,patr,blue,patr3,5,5,318,,70s-p4-c3-patr-5-318,70s-p4-c3-patr-5-318,*70s-p4-c3-patr-5-318*,NA,*,0.0161,16.1,11/24/2025,
+16,70s,p4,c3,disp,purple,disp2,2,2,127,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-2-127,70s-p4-c3-diac-2-127,*70s-p4-c3-diac-2-127*,NA,*,0.0165,16.5,11/26/2025,1
+145,70s,p3,c3,diol,red,diol,6,6,376,,70s-p3-c3-diol-6-376,70s-p3-c3-diol-6-376,*70s-p3-c3-diol-6-376*,NA,*,0.0165,16.5,11/26/2025,
+244,70s,p4,c4,paco,green,paco2,6,6,380,,70s-p4-c4-paco-6-380,70s-p4-c4-paco-6-380,*70s-p4-c4-paco-6-380*,NA,*,0.0166,16.6,11/17/2025,
+277,70s,p4,c4,paha,pink,paha,4,4,250,,70s-p4-c4-paha-4-250,70s-p4-c4-paha-4-250,*70s-p4-c4-paha-4-250*,NA,*,0.0166,16.6,11/17/2025,
+301,70s,p4,c3,patr,blue,patr3,1,1,62,,70s-p4-c3-patr-1-62,70s-p4-c3-patr-1-62,*70s-p4-c3-patr-1-62*,NA,*,0.0168,16.8,11/21/2025,
+7,70s,p3,c3,disp,purple,disp2,1,1,55,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-1-55,70s-p3-c3-diac-1-55,*70s-p3-c3-diac-1-55*,NA,*,0.0171,17.1,11/26/2025,
+258,70s,p1,c4,paha,pink,paha,2,2,98,,70s-p1-c4-paha-2-98,70s-p1-c4-paha-2-98,*70s-p1-c4-paha-2-98*,NA,*,0.0173,17.3,11/24/2025,
+309,70s,p4,c3,patr,blue,patr3,2,2,126,,70s-p4-c3-patr-2-126,70s-p4-c3-patr-2-126,*70s-p4-c3-patr-2-126*,NA,*,0.0176,17.6,11/26/2025,1
+8,70s,p4,c3,disp,purple,disp2,1,1,63,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-1-63,70s-p4-c3-diac-1-63,*70s-p4-c3-diac-1-63*,NA,*,0.0177,17.7,11/21/2025,
+340,70s,p3,c3,patr,blue,patr3,6,6,374,,70s-p3-c3-patr-6-374,70s-p3-c3-patr-6-374,*70s-p3-c3-patr-6-374*,NA,*,0.0178,17.8,11/26/2025,
+21,70s,p1,c3,disp,purple,disp2,3,3,167,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-3-167,70s-p1-c3-diac-3-167,*70s-p1-c3-diac-3-167*,NA,*,0.0181,18.1,11/26/2025,2
+325,70s,p4,c3,patr,blue,patr3,4,4,254,,70s-p4-c3-patr-4-254,70s-p4-c3-patr-4-254,*70s-p4-c3-patr-4-254*,NA,*,0.0184,18.4,11/26/2025,2
+203,70s,p4,c4,paco,green,paco2,1,1,60,,70s-p4-c4-paco-1-60,70s-p4-c4-paco-1-60,*70s-p4-c4-paco-1-60*,NA,*,0.0185,18.5,11/26/2025,
+272,00s,p3,c4,paha,pink,paha,4,4,210,,00s-p3-c4-paha-4-210,00s-p3-c4-paha-4-210,*00s-p3-c4-paha-4-210*,NA,*,0.0188,18.8,11/24/2025,
+261,70s,p4,c4,paha,pink,paha,2,2,122,,70s-p4-c4-paha-2-122,70s-p4-c4-paha-2-122,*70s-p4-c4-paha-2-122*,NA,*,0.0189,18.9,11/26/2025,1
+266,70s,p1,c4,paha,pink,paha,3,3,162,,70s-p1-c4-paha-3-162,70s-p1-c4-paha-3-162,*70s-p1-c4-paha-3-162*,NA,*,0.0196,19.6,11/26/2025,
+346,70s,p1,c4,pavi,white,pavi2,1,1,33,,70s-p1-c4-pavi-1-33,70s-p1-c4-pavi-1-33,*70s-p1-c4-pavi-1-33*,NA,*,0.0197,19.7,11/24/2025,
+184,70s,p1,c4,paan,orange,paan4,5,5,291,,70s-p1-c4-paan-5-291,70s-p1-c4-paan-5-291,*70s-p1-c4-paan-5-291*,NA,*,0.0198,19.8,11/21/2025,
+322,70s,p1,c3,patr,blue,patr3,4,4,230,,70s-p1-c3-patr-4-230,70s-p1-c3-patr-4-230,*70s-p1-c3-patr-4-230*,NA,*,0.0201,20.1,11/24/2025,
+265,00s,p4,c4,paha,pink,paha,3,3,154,,00s-p4-c4-paha-3-154,00s-p4-c4-paha-3-154,*00s-p4-c4-paha-3-154*,NA,*,0.0202,20.2,11/26/2025,1
+303,00s,p2,c3,patr,blue,patr3,2,2,78,,00s-p2-c3-patr-2-78,00s-p2-c3-patr-2-78,*00s-p2-c3-patr-2-78*,NA,*,0.0203,20.3,11/26/2025,1
+46,70s,p2,c3,disp,purple,disp2,6,6,367,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-6-367,70s-p2-c3-diac-6-367,*70s-p2-c3-diac-6-367*,NA,*,0.0204,20.4,11/26/2025,
+324,70s,p3,c3,patr,blue,patr3,4,4,246,,70s-p3-c3-patr-4-246,70s-p3-c3-patr-4-246,*70s-p3-c3-patr-4-246*,NA,*,0.0204,20.4,11/17/2025,
+29,70s,p1,c3,disp,purple,disp2,4,4,231,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-4-231,70s-p1-c3-diac-4-231,*70s-p1-c3-diac-4-231*,NA,*,0.0206,20.6,11/26/2025,2
+314,70s,p1,c3,patr,blue,patr3,3,3,166,,70s-p1-c3-patr-3-166,70s-p1-c3-patr-3-166,*70s-p1-c3-patr-3-166*,NA,*,0.0208,20.8,11/26/2025,1
+288,00s,p3,c4,paha,pink,paha,6,6,338,,00s-p3-c4-paha-6-338,00s-p3-c4-paha-6-338,*00s-p3-c4-paha-6-338*,NA,*,0.0209,20.9,11/25/2025,
+341,70s,p4,c3,patr,blue,patr3,6,6,382,,70s-p4-c3-patr-6-382,70s-p4-c3-patr-6-382,*70s-p4-c3-patr-6-382*,NA,*,0.0209,20.9,11/26/2025,
+186,70s,p3,c4,paan,orange,paan4,5,5,307,,70s-p3-c4-paan-5-307,70s-p3-c4-paan-5-307,*70s-p3-c4-paan-5-307*,NA,*,0.0215,21.5,11/17/2025,Some leaf material stuck in freeze dried tube
+113,70s,p4,c3,diol,red,diol,2,2,128,,70s-p4-c3-diol-2-128,70s-p4-c3-diol-2-128,*70s-p4-c3-diol-2-128*,NA,*,0.0221,22.1,11/24/2025,
+208,70s,p1,c4,paco,green,paco2,2,2,100,,70s-p1-c4-paco-2-100,70s-p1-c4-paco-2-100,*70s-p1-c4-paco-2-100*,NA,*,0.0221,22.1,11/26/2025,1
+151,70s,p1,c4,paan,orange,paan4,1,1,35,,70s-p1-c4-paan-1-35,70s-p1-c4-paan-1-35,*70s-p1-c4-paan-1-35*,NA,*,0.0222,22.2,11/26/2025,
+260,70s,p3,c4,paha,pink,paha,2,2,114,,70s-p3-c4-paha-2-114,70s-p3-c4-paha-2-114,*70s-p3-c4-paha-2-114*,NA,*,0.0222,22.2,11/24/2025,
+338,70s,p1,c3,patr,blue,patr3,6,6,358,,70s-p1-c3-patr-6-358,70s-p1-c3-patr-6-358,*70s-p1-c3-patr-6-358*,NA,*,0.0226,22.6,11/26/2025,2
+137,70s,p4,c3,diol,red,diol,5,5,320,,70s-p4-c3-diol-5-320,70s-p4-c3-diol-5-320,*70s-p4-c3-diol-5-320*,NA,*,0.0227,22.7,11/21/2025,
+225,70s,p1,c4,paco,green,paco2,4,4,228,,70s-p1-c4-paco-4-228,70s-p1-c4-paco-4-228,*70s-p1-c4-paco-4-228*,NA,*,0.0232,23.2,11/17/2025,
+370,70s,p1,c4,pavi,white,pavi2,4,4,225,,70s-p1-c4-pavi-4-225,70s-p1-c4-pavi-4-225,*70s-p1-c4-pavi-4-225*,NA,*,0.0232,23.2,11/26/2025,2
+269,70s,p4,c4,paha,pink,paha,3,3,186,,70s-p4-c4-paha-3-186,70s-p4-c4-paha-3-186,*70s-p4-c4-paha-3-186*,NA,*,0.0233,23.3,11/26/2025,"1, used different standard vial (1.5124)"
+135,70s,p2,c3,diol,red,diol,5,5,304,,70s-p2-c3-diol-5-304,70s-p2-c3-diol-5-304,*70s-p2-c3-diol-5-304*,NA,*,0.0236,23.6,11/21/2025,
+226,70s,p2,c4,paco,green,paco2,4,4,236,,70s-p2-c4-paco-4-236,70s-p2-c4-paco-4-236,*70s-p2-c4-paco-4-236*,NA,*,0.0238,23.8,11/26/2025,2
+247,00s,p3,c4,paha,pink,paha,1,1,18,,00s-p3-c4-paha-1-18,00s-p3-c4-paha-1-18,*00s-p3-c4-paha-1-18*,NA,*,0.0238,23.8,11/17/2025,
+323,70s,p2,c3,patr,blue,patr3,4,4,238,,70s-p2-c3-patr-4-238,70s-p2-c3-patr-4-238,*70s-p2-c3-patr-4-238*,NA,*,0.0241,24.1,11/24/2025,
+48,70s,p4,c3,disp,purple,disp2,6,6,383,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-6-383,70s-p4-c3-diac-6-383,*70s-p4-c3-diac-6-383*,NA,*,0.0242,24.2,11/17/2025,Some leaf material in pfrac value
+245,00s,p1,c4,paha,pink,paha,1,1,2,,00s-p1-c4-paha-1-2,00s-p1-c4-paha-1-2,*00s-p1-c4-paha-1-2*,NA,*,0.0246,24.6,11/24/2025,
+256,00s,p3,c4,paha,pink,paha,2,2,82,,00s-p3-c4-paha-2-82,00s-p3-c4-paha-2-82,*00s-p3-c4-paha-2-82*,NA,*,0.0246,24.6,11/17/2025,
+134,70s,p1,c3,diol,red,diol,5,5,296,,70s-p1-c3-diol-5-296,70s-p1-c3-diol-5-296,*70s-p1-c3-diol-5-296*,NA,*,0.0251,25.1,11/21/2025,
+30,70s,p2,c3,disp,purple,disp2,4,4,239,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-4-239,70s-p2-c3-diac-4-239,*70s-p2-c3-diac-4-239*,NA,*,0.0256,25.6,11/26/2025,2
+45,70s,p1,c3,disp,purple,disp2,6,6,359,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-6-359,70s-p1-c3-diac-6-359,*70s-p1-c3-diac-6-359*,NA,*,0.0256,25.6,11/26/2025,2
+331,70s,p2,c3,patr,blue,patr3,5,5,302,,70s-p2-c3-patr-5-302,70s-p2-c3-patr-5-302,*70s-p2-c3-patr-5-302*,NA,*,0.0257,25.7,11/21/2025,
+330,70s,p1,c3,patr,blue,patr3,5,5,294,,70s-p1-c3-patr-5-294,70s-p1-c3-patr-5-294,*70s-p1-c3-patr-5-294*,NA,*,0.0259,25.9,11/17/2025,
+22,70s,p2,c3,disp,purple,disp2,3,3,175,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-3-175,70s-p2-c3-diac-3-175,*70s-p2-c3-diac-3-175*,NA,*,0.0261,26.1,11/25/2025,
+94,70s,p1,c3,dicl,yellow,dicl,6,6,357,,70s-p1-c3-dicl-6-357,70s-p1-c3-dicl-6-357,*70s-p1-c3-dicl-6-357*,NA,*,0.0264,26.4,11/17/2025,
+143,70s,p1,c3,diol,red,diol,6,6,360,,70s-p1-c3-diol-6-360,70s-p1-c3-diol-6-360,*70s-p1-c3-diol-6-360*,NA,*,0.0265,26.5,11/26/2025,
+201,70s,p2,c4,paco,green,paco2,1,1,44,,70s-p2-c4-paco-1-44,70s-p2-c4-paco-1-44,*70s-p2-c4-paco-1-44*,NA,*,0.027,27,11/25/2025,
+15,70s,p3,c3,disp,purple,disp2,2,2,119,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-2-119,70s-p3-c3-diac-2-119,*70s-p3-c3-diac-2-119*,NA,*,0.0273,27.3,11/24/2025,
+371,70s,p2,c4,pavi,white,pavi2,4,4,233,,70s-p2-c4-pavi-4-233,70s-p2-c4-pavi-4-233,*70s-p2-c4-pavi-4-233*,NA,*,0.0274,27.4,11/24/2025,
+298,70s,p1,c3,patr,blue,patr3,1,1,38,,70s-p1-c3-patr-1-38,70s-p1-c3-patr-1-38,*70s-p1-c3-patr-1-38*,NA,*,0.0275,27.5,11/25/2025,
+146,70s,p4,c3,diol,red,diol,6,6,384,,70s-p4-c3-diol-6-384,70s-p4-c3-diol-6-384,*70s-p4-c3-diol-6-384*,NA,*,0.0276,27.6,11/26/2025,
+364,70s,p3,c4,pavi,white,pavi2,3,3,177,,70s-p3-c4-pavi-3-177,70s-p3-c4-pavi-3-177,*70s-p3-c4-pavi-3-177*,NA,*,0.0277,27.7,11/24/2025,
+5,70s,p1,c3,disp,purple,disp2,1,1,39,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-1-39,70s-p1-c3-diac-1-39,*70s-p1-c3-diac-1-39*,NA,*,0.0278,27.8,11/21/2025,
+139,00s,p2,c3,diol,red,diol,6,6,336,,00s-p2-c3-diol-6-336,00s-p2-c3-diol-6-336,*00s-p2-c3-diol-6-336*,NA,*,0.0278,27.8,11/26/2025,
+25,00s,p1,c3,disp,purple,disp2,4,4,199,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-4-199,00s-p1-c3-diac-4-199,*00s-p1-c3-diac-4-199*,NA,*,0.0281,28.1,11/25/2025,
+136,70s,p3,c3,diol,red,diol,5,5,312,,70s-p3-c3-diol-5-312,70s-p3-c3-diol-5-312,*70s-p3-c3-diol-5-312*,NA,*,0.0281,28.1,11/24/2025,
+263,00s,p2,c4,paha,pink,paha,3,3,138,,00s-p2-c4-paha-3-138,00s-p2-c4-paha-3-138,*00s-p2-c4-paha-3-138*,NA,*,0.0282,28.2,11/26/2025,
+316,70s,p3,c3,patr,blue,patr3,3,3,182,,70s-p3-c3-patr-3-182,70s-p3-c3-patr-3-182,*70s-p3-c3-patr-3-182*,NA,*,0.0282,28.2,11/25/2025,
+317,70s,p4,c3,patr,blue,patr3,3,3,190,,70s-p4-c3-patr-3-190,70s-p4-c3-patr-3-190,*70s-p4-c3-patr-3-190*,NA,*,0.0282,28.2,11/26/2025,2
+193,70s,p2,c4,paan,orange,paan4,6,6,363,,70s-p2-c4-paan-6-363,70s-p2-c4-paan-6-363,*70s-p2-c4-paan-6-363*,NA,*,0.0283,28.3,11/24/2025,
+210,70s,p3,c4,paco,green,paco2,2,2,116,,70s-p3-c4-paco-2-116,70s-p3-c4-paco-2-116,*70s-p3-c4-paco-2-116*,NA,*,0.0286,28.6,11/24/2025,
+126,70s,p1,c3,diol,red,diol,4,4,232,,70s-p1-c3-diol-4-232,70s-p1-c3-diol-4-232,*70s-p1-c3-diol-4-232*,NA,*,0.0295,29.5,11/17/2025,
+87,70s,p2,c3,dicl,yellow,dicl,5,5,301,,70s-p2-c3-dicl-5-301,70s-p2-c3-dicl-5-301,*70s-p2-c3-dicl-5-301*,NA,*,0.0296,29.6,11/24/2025,
+104,70s,p3,c3,diol,red,diol,1,1,56,,70s-p3-c3-diol-1-56,70s-p3-c3-diol-1-56,*70s-p3-c3-diol-1-56*,NA,*,0.0297,29.7,11/25/2025,
+339,70s,p2,c3,patr,blue,patr3,6,6,366,,70s-p2-c3-patr-6-366,70s-p2-c3-patr-6-366,*70s-p2-c3-patr-6-366*,NA,*,0.0297,29.7,11/24/2025,
+147,00s,p1,c4,paan,orange,paan4,1,1,3,,00s-p1-c4-paan-1-3,00s-p1-c4-paan-1-3,*00s-p1-c4-paan-1-3*,NA,*,0.0299,29.9,11/21/2025,
+273,00s,p4,c4,paha,pink,paha,4,4,218,,00s-p4-c4-paha-4-218,00s-p4-c4-paha-4-218,*00s-p4-c4-paha-4-218*,NA,*,0.03,30,11/24/2025,
+13,70s,p1,c3,disp,purple,disp2,2,2,103,"used to be diac, updated to disp based on growing",70s-p1-c3-diac-2-103,70s-p1-c3-diac-2-103,*70s-p1-c3-diac-2-103*,NA,*,0.0302,30.2,11/26/2025,1
+357,70s,p4,c4,pavi,white,pavi2,2,2,121,,70s-p4-c4-pavi-2-121,70s-p4-c4-pavi-2-121,*70s-p4-c4-pavi-2-121*,NA,*,0.0302,30.2,11/26/2025,1
+216,70s,p1,c4,paco,green,paco2,3,3,164,,70s-p1-c4-paco-3-164,70s-p1-c4-paco-3-164,*70s-p1-c4-paco-3-164*,NA,*,0.0304,30.4,11/26/2025,2
+202,70s,p3,c4,paco,green,paco2,1,1,52,,70s-p3-c4-paco-1-52,70s-p3-c4-paco-1-52,*70s-p3-c4-paco-1-52*,NA,*,0.0305,30.5,11/25/2025,
+386,70s,p1,c4,pavi,white,pavi2,6,6,353,,70s-p1-c4-pavi-6-353,70s-p1-c4-pavi-6-353,*70s-p1-c4-pavi-6-353*,NA,*,0.0305,30.5,11/24/2025,
+354,70s,p1,c4,pavi,white,pavi2,2,2,97,,70s-p1-c4-pavi-2-97,70s-p1-c4-pavi-2-97,*70s-p1-c4-pavi-2-97*,NA,*,0.0306,30.6,11/26/2025,1
+105,70s,p4,c3,diol,red,diol,1,1,64,,70s-p4-c3-diol-1-64,70s-p4-c3-diol-1-64,*70s-p4-c3-diol-1-64*,NA,*,0.0307,30.7,11/21/2025,
+246,00s,p2,c4,paha,pink,paha,1,1,10,,00s-p2-c4-paha-1-10,00s-p2-c4-paha-1-10,*00s-p2-c4-paha-1-10*,NA,*,0.0307,30.7,11/21/2025,
+172,00s,p1,c4,paan,orange,paan4,4,4,195,,00s-p1-c4-paan-4-195,00s-p1-c4-paan-4-195,*00s-p1-c4-paan-4-195*,NA,*,0.0308,30.8,11/21/2025,
+315,70s,p2,c3,patr,blue,patr3,3,3,174,,70s-p2-c3-patr-3-174,70s-p2-c3-patr-3-174,*70s-p2-c3-patr-3-174*,NA,*,0.0309,30.9,11/25/2025,
+227,70s,p3,c4,paco,green,paco2,4,4,244,,70s-p3-c4-paco-4-244,70s-p3-c4-paco-4-244,*70s-p3-c4-paco-4-244*,NA,*,0.0313,31.3,11/24/2025,
+102,70s,p1,c3,diol,red,diol,1,1,40,,70s-p1-c3-diol-1-40,70s-p1-c3-diol-1-40,*70s-p1-c3-diol-1-40*,NA,*,0.0315,31.5,11/24/2025,
+192,70s,p1,c4,paan,orange,paan4,6,6,355,,70s-p1-c4-paan-6-355,70s-p1-c4-paan-6-355,*70s-p1-c4-paan-6-355*,NA,*,0.0315,31.5,11/26/2025,
+388,70s,p3,c4,pavi,white,pavi2,6,6,369,,70s-p3-c4-pavi-6-369,70s-p3-c4-pavi-6-369,*70s-p3-c4-pavi-6-369*,NA,*,0.0315,31.5,11/17/2025,
+300,70s,p3,c3,patr,blue,patr3,1,1,54,,70s-p3-c3-patr-1-54,70s-p3-c3-patr-1-54,*70s-p3-c3-patr-1-54*,NA,*,0.0318,31.8,11/26/2025,
+121,70s,p4,c3,diol,red,diol,3,3,192,,70s-p4-c3-diol-3-192,70s-p4-c3-diol-3-192,*70s-p4-c3-diol-3-192*,NA,*,0.0319,31.9,11/26/2025,
+335,00s,p2,c3,patr,blue,patr3,6,6,334,,00s-p2-c3-patr-6-334,00s-p2-c3-patr-6-334,*00s-p2-c3-patr-6-334*,NA,*,0.0319,31.9,11/26/2025,
+348,70s,p3,c4,pavi,white,pavi2,1,1,49,,70s-p3-c4-pavi-1-49,70s-p3-c4-pavi-1-49,*70s-p3-c4-pavi-1-49*,NA,*,0.032,32,11/25/2025,
+255,00s,p2,c4,paha,pink,paha,2,2,74,,00s-p2-c4-paha-2-74,00s-p2-c4-paha-2-74,*00s-p2-c4-paha-2-74*,NA,*,0.0324,32.4,11/24/2025,
+164,00s,p1,c4,paan,orange,paan4,3,3,131,,00s-p1-c4-paan-3-131,00s-p1-c4-paan-3-131,*00s-p1-c4-paan-3-131*,NA,*,0.0329,32.9,11/25/2025,
+127,70s,p2,c3,diol,red,diol,4,4,240,,70s-p2-c3-diol-4-240,70s-p2-c3-diol-4-240,*70s-p2-c3-diol-4-240*,NA,*,0.0331,33.1,11/26/2025,2
+103,70s,p2,c3,diol,red,diol,1,1,48,,70s-p2-c3-diol-1-48,70s-p2-c3-diol-1-48,*70s-p2-c3-diol-1-48*,NA,*,0.0332,33.2,11/21/2025,
+118,70s,p1,c3,diol,red,diol,3,3,168,,70s-p1-c3-diol-3-168,70s-p1-c3-diol-3-168,*70s-p1-c3-diol-3-168*,NA,*,0.0333,33.3,11/26/2025,1
+307,70s,p2,c3,patr,blue,patr3,2,2,110,,70s-p2-c3-patr-2-110,70s-p2-c3-patr-2-110,*70s-p2-c3-patr-2-110*,NA,*,0.0334,33.4,11/24/2025,
+279,00s,p2,c4,paha,pink,paha,5,5,266,,00s-p2-c4-paha-5-266,00s-p2-c4-paha-5-266,*00s-p2-c4-paha-5-266*,NA,*,0.0335,33.5,11/24/2025,
+119,70s,p2,c3,diol,red,diol,3,3,176,,70s-p2-c3-diol-3-176,70s-p2-c3-diol-3-176,*70s-p2-c3-diol-3-176*,NA,*,0.0336,33.6,11/24/2025,
+23,70s,p3,c3,disp,purple,disp2,3,3,183,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-3-183,70s-p3-c3-diac-3-183,*70s-p3-c3-diac-3-183*,NA,*,0.0337,33.7,11/25/2025,
+88,70s,p3,c3,dicl,yellow,dicl,5,5,309,,70s-p3-c3-dicl-5-309,70s-p3-c3-dicl-5-309,*70s-p3-c3-dicl-5-309*,NA,*,0.0339,33.9,11/21/2025,
+97,70s,p4,c3,dicl,yellow,dicl,6,6,381,,70s-p4-c3-dicl-6-381,70s-p4-c3-dicl-6-381,*70s-p4-c3-dicl-6-381*,NA,*,0.0339,33.9,11/17/2025,
+287,00s,p2,c4,paha,pink,paha,6,6,330,,00s-p2-c4-paha-6-330,00s-p2-c4-paha-6-330,*00s-p2-c4-paha-6-330*,NA,*,0.0339,33.9,11/26/2025,
+217,70s,p2,c4,paco,green,paco2,3,3,172,,70s-p2-c4-paco-3-172,70s-p2-c4-paco-3-172,*70s-p2-c4-paco-3-172*,NA,*,0.0341,34.1,11/25/2025,
+355,70s,p2,c4,pavi,white,pavi2,2,2,105,,70s-p2-c4-pavi-2-105,70s-p2-c4-pavi-2-105,*70s-p2-c4-pavi-2-105*,NA,*,0.0341,34.1,11/26/2025,1
+148,00s,p2,c4,paan,orange,paan4,1,1,11,,00s-p2-c4-paan-1-11,00s-p2-c4-paan-1-11,*00s-p2-c4-paan-1-11*,NA,*,0.0348,34.8,11/26/2025,2
+319,00s,p2,c3,patr,blue,patr3,4,4,206,,00s-p2-c3-patr-4-206,00s-p2-c3-patr-4-206,*00s-p2-c3-patr-4-206*,NA,*,0.0348,34.8,11/26/2025,
+111,70s,p2,c3,diol,red,diol,2,2,112,,70s-p2-c3-diol-2-112,70s-p2-c3-diol-2-112,*70s-p2-c3-diol-2-112*,NA,*,0.0353,35.3,11/24/2025,
+254,00s,p1,c4,paha,pink,paha,2,2,66,,00s-p1-c4-paha-2-66,00s-p1-c4-paha-2-66,*00s-p1-c4-paha-2-66*,NA,*,0.0354,35.4,11/26/2025,1
+336,00s,p3,c3,patr,blue,patr3,6,6,342,,00s-p3-c3-patr-6-342,00s-p3-c3-patr-6-342,*00s-p3-c3-patr-6-342*,NA,*,0.0354,35.4,11/26/2025,
+219,70s,p4,c4,paco,green,paco2,3,3,188,,70s-p4-c4-paco-3-188,70s-p4-c4-paco-3-188,*70s-p4-c4-paco-3-188*,NA,*,0.0357,35.7,11/24/2025,
+80,70s,p3,c3,dicl,yellow,dicl,4,4,245,,70s-p3-c3-dicl-4-245,70s-p3-c3-dicl-4-245,*70s-p3-c3-dicl-4-245*,NA,*,0.0359,35.9,11/24/2025,
+24,70s,p4,c3,disp,purple,disp2,3,3,191,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-3-191,70s-p4-c3-diac-3-191,*70s-p4-c3-diac-3-191*,NA,*,0.0366,36.6,11/26/2025,
+12,00s,p4,c3,disp,purple,disp2,2,2,95,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-2-95,00s-p4-c3-diac-2-95,*00s-p4-c3-diac-2-95*,NA,*,0.0367,36.7,11/24/2025,
+248,00s,p4,c4,paha,pink,paha,1,1,26,,00s-p4-c4-paha-1-26,00s-p4-c4-paha-1-26,*00s-p4-c4-paha-1-26*,NA,*,0.0367,36.7,11/17/2025,
+170,70s,p3,c4,paan,orange,paan4,3,3,179,,70s-p3-c4-paan-3-179,70s-p3-c4-paan-3-179,*70s-p3-c4-paan-3-179*,NA,*,0.0368,36.8,11/26/2025,1
+187,70s,p4,c4,paan,orange,paan4,5,5,315,,70s-p4-c4-paan-5-315,70s-p4-c4-paan-5-315,*70s-p4-c4-paan-5-315*,NA,*,0.0373,37.3,11/21/2025,
+318,00s,p1,c3,patr,blue,patr3,4,4,198,,00s-p1-c3-patr-4-198,00s-p1-c3-patr-4-198,*00s-p1-c3-patr-4-198*,NA,*,0.0376,37.6,11/25/2025,
+194,70s,p3,c4,paan,orange,paan4,6,6,371,,70s-p3-c4-paan-6-371,70s-p3-c4-paan-6-371,*70s-p3-c4-paan-6-371*,NA,*,0.0377,37.7,11/24/2025,
+362,70s,p1,c4,pavi,white,pavi2,3,3,161,,70s-p1-c4-pavi-3-161,70s-p1-c4-pavi-3-161,*70s-p1-c4-pavi-3-161*,NA,*,0.0378,37.8,11/25/2025,
+81,70s,p4,c3,dicl,yellow,dicl,4,4,253,,70s-p4-c3-dicl-4-253,70s-p4-c3-dicl-4-253,*70s-p4-c3-dicl-4-253*,NA,*,0.0379,37.9,11/17/2025,
+349,70s,p4,c4,pavi,white,pavi2,1,1,57,,70s-p4-c4-pavi-1-57,70s-p4-c4-pavi-1-57,*70s-p4-c4-pavi-1-57*,NA,*,0.038,38,11/25/2025,
+177,70s,p2,c4,paan,orange,paan4,4,4,235,,70s-p2-c4-paan-4-235,70s-p2-c4-paan-4-235,*70s-p2-c4-paan-4-235*,NA,*,0.0386,38.6,11/17/2025,
+185,70s,p2,c4,paan,orange,paan4,5,5,299,,70s-p2-c4-paan-5-299,70s-p2-c4-paan-5-299,*70s-p2-c4-paan-5-299*,NA,*,0.039,39,11/24/2025,
+6,70s,p2,c3,disp,purple,disp2,1,1,47,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-1-47,70s-p2-c3-diac-1-47,*70s-p2-c3-diac-1-47*,NA,*,0.0393,39.3,11/24/2025,
+376,00s,p3,c4,pavi,white,pavi2,5,5,273,,00s-p3-c4-pavi-5-273,00s-p3-c4-pavi-5-273,*00s-p3-c4-pavi-5-273*,NA,*,0.0398,39.8,11/24/2025,
+329,00s,p4,c3,patr,blue,patr3,5,5,286,,00s-p4-c3-patr-5-286,00s-p4-c3-patr-5-286,*00s-p4-c3-patr-5-286*,NA,*,0.0404,40.4,11/24/2025,
+167,00s,p4,c4,paan,orange,paan4,3,3,155,,00s-p4-c4-paan-3-155,00s-p4-c4-paan-3-155,*00s-p4-c4-paan-3-155*,NA,*,0.0405,40.5,11/25/2025,
+295,00s,p2,c3,patr,blue,patr3,1,1,14,,00s-p2-c3-patr-1-14,00s-p2-c3-patr-1-14,*00s-p2-c3-patr-1-14*,NA,*,0.0407,40.7,11/26/2025,
+305,00s,p4,c3,patr,blue,patr3,2,2,94,,00s-p4-c3-patr-2-94,00s-p4-c3-patr-2-94,*00s-p4-c3-patr-2-94*,NA,*,0.0413,41.3,11/26/2025,2
+372,70s,p3,c4,pavi,white,pavi2,4,4,241,,70s-p3-c4-pavi-4-241,70s-p3-c4-pavi-4-241,*70s-p3-c4-pavi-4-241*,NA,*,0.0413,41.3,11/17/2025,
+179,70s,p4,c4,paan,orange,paan4,4,4,251,,70s-p4-c4-paan-4-251,70s-p4-c4-paan-4-251,*70s-p4-c4-paan-4-251*,NA,*,0.0414,41.4,11/17/2025,
+281,00s,p4,c4,paha,pink,paha,5,5,282,,00s-p4-c4-paha-5-282,00s-p4-c4-paha-5-282,*00s-p4-c4-paha-5-282*,NA,*,0.0415,41.5,11/24/2025,
+299,70s,p2,c3,patr,blue,patr3,1,1,46,,70s-p2-c3-patr-1-46,70s-p2-c3-patr-1-46,*70s-p2-c3-patr-1-46*,NA,*,0.0416,41.6,11/24/2025,
+347,70s,p2,c4,pavi,white,pavi2,1,1,41,,70s-p2-c4-pavi-1-41,70s-p2-c4-pavi-1-41,*70s-p2-c4-pavi-1-41*,NA,*,0.0416,41.6,11/21/2025,
+196,00s,p1,c4,paco,green,paco2,1,1,4,,00s-p1-c4-paco-1-4,00s-p1-c4-paco-1-4,*00s-p1-c4-paco-1-4*,NA,*,0.0417,41.7,11/17/2025,
+242,70s,p2,c4,paco,green,paco2,6,6,364,,70s-p2-c4-paco-6-364,70s-p2-c4-paco-6-364,*70s-p2-c4-paco-6-364*,NA,*,0.0417,41.7,11/26/2025,2
+294,00s,p1,c3,patr,blue,patr3,1,1,6,,00s-p1-c3-patr-1-6,00s-p1-c3-patr-1-6,*00s-p1-c3-patr-1-6*,NA,*,0.0418,41.8,11/21/2025,
+200,70s,p1,c4,paco,green,paco2,1,1,36,,70s-p1-c4-paco-1-36,70s-p1-c4-paco-1-36,*70s-p1-c4-paco-1-36*,NA,*,0.0421,42.1,11/25/2025,
+320,00s,p3,c3,patr,blue,patr3,4,4,214,,00s-p3-c3-patr-4-214,00s-p3-c3-patr-4-214,*00s-p3-c3-patr-4-214*,NA,*,0.0421,42.1,11/21/2025,
+79,70s,p2,c3,dicl,yellow,dicl,4,4,237,,70s-p2-c3-dicl-4-237,70s-p2-c3-dicl-4-237,*70s-p2-c3-dicl-4-237*,NA,*,0.0426,42.6,11/17/2025,
+280,00s,p3,c4,paha,pink,paha,5,5,274,,00s-p3-c4-paha-5-274,00s-p3-c4-paha-5-274,*00s-p3-c4-paha-5-274*,NA,*,0.0427,42.7,11/21/2025,
+334,00s,p1,c3,patr,blue,patr3,6,6,326,,00s-p1-c3-patr-6-326,00s-p1-c3-patr-6-326,*00s-p1-c3-patr-6-326*,NA,*,0.043,43,11/24/2025,
+171,70s,p4,c4,paan,orange,paan4,3,3,187,,70s-p4-c4-paan-3-187,70s-p4-c4-paan-3-187,*70s-p4-c4-paan-3-187*,NA,*,0.0432,43.2,11/24/2025,
+66,00s,p2,c3,dicl,yellow,dicl,3,3,141,,00s-p2-c3-dicl-3-141,00s-p2-c3-dicl-3-141,*00s-p2-c3-dicl-3-141*,NA,*,0.0434,43.4,11/26/2025,2
+158,00s,p4,c4,paan,orange,paan4,2,2,91,,00s-p4-c4-paan-2-91,00s-p4-c4-paan-2-91,*00s-p4-c4-paan-2-91*,NA,*,0.0435,43.5,11/24/2025,
+20,00s,p4,c3,disp,purple,disp2,3,3,159,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-3-159,00s-p4-c3-diac-3-159,*00s-p4-c3-diac-3-159*,NA,*,0.0439,43.9,11/26/2025,1
+327,00s,p2,c3,patr,blue,patr3,5,5,270,,00s-p2-c3-patr-5-270,00s-p2-c3-patr-5-270,*00s-p2-c3-patr-5-270*,NA,*,0.0439,43.9,11/17/2025,
+64,70s,p4,c3,dicl,yellow,dicl,2,2,125,,70s-p4-c3-dicl-2-125,70s-p4-c3-dicl-2-125,*70s-p4-c3-dicl-2-125*,NA,*,0.0444,44.4,11/24/2025,
+61,70s,p1,c3,dicl,yellow,dicl,2,2,101,,70s-p1-c3-dicl-2-101,70s-p1-c3-dicl-2-101,*70s-p1-c3-dicl-2-101*,NA,*,0.0446,44.6,11/26/2025,1
+95,70s,p2,c3,dicl,yellow,dicl,6,6,365,,70s-p2-c3-dicl-6-365,70s-p2-c3-dicl-6-365,*70s-p2-c3-dicl-6-365*,NA,*,0.0446,44.6,11/17/2025,
+53,70s,p1,c3,dicl,yellow,dicl,1,1,37,,70s-p1-c3-dicl-1-37,70s-p1-c3-dicl-1-37,*70s-p1-c3-dicl-1-37*,NA,*,0.045,45,11/25/2025,
+129,70s,p4,c3,diol,red,diol,4,4,256,,70s-p4-c3-diol-4-256,70s-p4-c3-diol-4-256,*70s-p4-c3-diol-4-256*,NA,*,0.045,45,11/17/2025,
+378,70s,p1,c4,pavi,white,pavi2,5,5,289,,70s-p1-c4-pavi-5-289,70s-p1-c4-pavi-5-289,*70s-p1-c4-pavi-5-289*,NA,*,0.045,45,11/24/2025,
+96,70s,p3,c3,dicl,yellow,dicl,6,6,373,,70s-p3-c3-dicl-6-373,70s-p3-c3-dicl-6-373,*70s-p3-c3-dicl-6-373*,NA,*,0.0453,45.3,11/26/2025,
+153,70s,p3,c4,paan,orange,paan4,1,1,51,,70s-p3-c4-paan-1-51,70s-p3-c4-paan-1-51,*70s-p3-c4-paan-1-51*,NA,*,0.0455,45.5,11/25/2025,Could be 15 or 51
+168,70s,p1,c4,paan,orange,paan4,3,3,163,,70s-p1-c4-paan-3-163,70s-p1-c4-paan-3-163,*70s-p1-c4-paan-3-163*,NA,*,0.0456,45.6,11/24/2025,
+373,70s,p4,c4,pavi,white,pavi2,4,4,249,,70s-p4-c4-pavi-4-249,70s-p4-c4-pavi-4-249,*70s-p4-c4-pavi-4-249*,NA,*,0.0456,45.6,11/24/2025,
+321,00s,p4,c3,patr,blue,patr3,4,4,222,,00s-p4-c3-patr-4-222,00s-p4-c3-patr-4-222,*00s-p4-c3-patr-4-222*,NA,*,0.0457,45.7,11/25/2025,
+2,00s,p2,c3,disp,purple,disp2,1,1,15,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-1-15,00s-p2-c3-diac-1-15,*00s-p2-c3-diac-1-15*,NA,*,0.0458,45.8,11/26/2025,2
+74,00s,p1,c3,dicl,yellow,dicl,4,4,197,,00s-p1-c3-dicl-4-197,00s-p1-c3-dicl-4-197,*00s-p1-c3-dicl-4-197*,NA,*,0.0458,45.8,11/17/2025,
+120,70s,p3,c3,diol,red,diol,3,3,184,,70s-p3-c3-diol-3-184,70s-p3-c3-diol-3-184,*70s-p3-c3-diol-3-184*,NA,*,0.0459,45.9,11/25/2025,
+155,00s,p1,c4,paan,orange,paan4,2,2,67,,00s-p1-c4-paan-2-67,00s-p1-c4-paan-2-67,*00s-p1-c4-paan-2-67*,NA,*,0.0459,45.9,11/24/2025,
+78,70s,p1,c3,dicl,yellow,dicl,4,4,229,,70s-p1-c3-dicl-4-229,70s-p1-c3-dicl-4-229,*70s-p1-c3-dicl-4-229*,NA,*,0.0463,46.3,11/26/2025,2
+132,00s,p3,c3,diol,red,diol,5,5,280,,00s-p3-c3-diol-5-280,00s-p3-c3-diol-5-280,*00s-p3-c3-diol-5-280*,NA,*,0.0464,46.4,11/17/2025,
+278,00s,p1,c4,paha,pink,paha,5,5,258,,00s-p1-c4-paha-5-258,00s-p1-c4-paha-5-258,*00s-p1-c4-paha-5-258*,NA,*,0.0465,46.5,11/21/2025,
+380,70s,p3,c4,pavi,white,pavi2,5,5,305,,70s-p3-c4-pavi-5-305,70s-p3-c4-pavi-5-305,*70s-p3-c4-pavi-5-305*,NA,*,0.0465,46.5,11/21/2025,
+52,00s,p4,c3,dicl,yellow,dicl,1,1,29,,00s-p4-c3-dicl-1-29,00s-p4-c3-dicl-1-29,*00s-p4-c3-dicl-1-29*,NA,*,0.0467,46.7,11/21/2025,
+176,70s,p1,c4,paan,orange,paan4,4,4,227,,70s-p1-c4-paan-4-227,70s-p1-c4-paan-4-227,*70s-p1-c4-paan-4-227*,NA,*,0.0467,46.7,11/17/2025,
+100,00s,p3,c3,diol,red,diol,1,1,24,,00s-p3-c3-diol-1-24,00s-p3-c3-diol-1-24,*00s-p3-c3-diol-1-24*,NA,*,0.0469,46.9,11/17/2025,
+77,00s,p4,c3,dicl,yellow,dicl,4,4,221,,00s-p4-c3-dicl-4-221,00s-p4-c3-dicl-4-221,*00s-p4-c3-dicl-4-221*,NA,*,0.0471,47.1,11/24/2025,
+195,70s,p4,c4,paan,orange,paan4,6,6,379,,70s-p4-c4-paan-6-379,70s-p4-c4-paan-6-379,*70s-p4-c4-paan-6-379*,NA,*,0.0474,47.4,11/17/2025,
+154,70s,p4,c4,paan,orange,paan4,1,1,59,,70s-p4-c4-paan-1-59,70s-p4-c4-paan-1-59,*70s-p4-c4-paan-1-59*,NA,*,0.0475,47.5,11/24/2025,
+211,70s,p4,c4,paco,green,paco2,2,2,124,,70s-p4-c4-paco-2-124,70s-p4-c4-paco-2-124,*70s-p4-c4-paco-2-124*,NA,*,0.0481,48.1,11/24/2025,
+312,00s,p3,c3,patr,blue,patr3,3,3,150,,00s-p3-c3-patr-3-150,00s-p3-c3-patr-3-150,*00s-p3-c3-patr-3-150*,NA,*,0.0481,48.1,11/26/2025,1
+67,00s,p3,c3,dicl,yellow,dicl,3,3,149,,00s-p3-c3-dicl-3-149,00s-p3-c3-dicl-3-149,*00s-p3-c3-dicl-3-149*,NA,*,0.0482,48.2,11/26/2025,
+32,70s,p4,c3,disp,purple,disp2,4,4,255,"used to be diac, updated to disp based on growing",70s-p4-c3-diac-4-255,70s-p4-c3-diac-4-255,*70s-p4-c3-diac-4-255*,NA,*,0.0488,48.8,11/24/2025,
+71,70s,p2,c3,dicl,yellow,dicl,3,3,173,,70s-p2-c3-dicl-3-173,70s-p2-c3-dicl-3-173,*70s-p2-c3-dicl-3-173*,NA,*,0.0489,48.9,11/25/2025,Duplicate - Not 173
+163,70s,p4,c4,paan,orange,paan4,2,2,123,,70s-p4-c4-paan-2-123,70s-p4-c4-paan-2-123,*70s-p4-c4-paan-2-123*,NA,*,0.0489,48.9,11/24/2025,
+28,00s,p4,c3,disp,purple,disp2,4,4,223,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-4-223,00s-p4-c3-diac-4-223,*00s-p4-c3-diac-4-223*,NA,*,0.0491,49.1,11/21/2025,
+60,00s,p4,c3,dicl,yellow,dicl,2,2,93,,00s-p4-c3-dicl-2-93,00s-p4-c3-dicl-2-93,*00s-p4-c3-dicl-2-93*,NA,*,0.0499,49.9,11/26/2025,2
+237,00s,p1,c4,paco,green,paco2,6,6,324,,00s-p1-c4-paco-6-324,00s-p1-c4-paco-6-324,*00s-p1-c4-paco-6-324*,NA,*,0.0501,50.1,11/26/2025,2
+178,70s,p3,c4,paan,orange,paan4,4,4,243,,70s-p3-c4-paan-4-243,70s-p3-c4-paan-4-243,*70s-p3-c4-paan-4-243*,NA,*,0.0502,50.2,11/24/2025,
+218,70s,p3,c4,paco,green,paco2,3,3,180,,70s-p3-c4-paco-3-180,70s-p3-c4-paco-3-180,*70s-p3-c4-paco-3-180*,NA,*,0.0507,50.7,11/25/2025,
+92,00s,p3,c3,dicl,yellow,dicl,6,6,341,,00s-p3-c3-dicl-6-341,00s-p3-c3-dicl-6-341,*00s-p3-c3-dicl-6-341*,NA,*,0.0516,51.6,11/24/2025,
+26,00s,p2,c3,disp,purple,disp2,4,4,207,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-4-207,00s-p2-c3-diac-4-207,*00s-p2-c3-diac-4-207*,NA,*,0.0518,51.8,11/26/2025,
+270,00s,p1,c4,paha,pink,paha,4,4,194,,00s-p1-c4-paha-4-194,00s-p1-c4-paha-4-194,*00s-p1-c4-paha-4-194*,NA,*,0.0522,52.2,11/24/2025,
+115,00s,p2,c3,diol,red,diol,3,3,144,,00s-p2-c3-diol-3-144,00s-p2-c3-diol-3-144,*00s-p2-c3-diol-3-144*,NA,*,0.0527,52.7,11/26/2025,1
+311,00s,p2,c3,patr,blue,patr3,3,3,142,,00s-p2-c3-patr-3-142,00s-p2-c3-patr-3-142,*00s-p2-c3-patr-3-142*,NA,*,0.0527,52.7,11/25/2025,
+140,00s,p3,c3,diol,red,diol,6,6,344,,00s-p3-c3-diol-6-344,00s-p3-c3-diol-6-344,*00s-p3-c3-diol-6-344*,NA,*,0.053,53,11/26/2025,Real 344
+239,00s,p3,c4,paco,green,paco2,6,6,340,,00s-p3-c4-paco-6-340,00s-p3-c4-paco-6-340,*00s-p3-c4-paco-6-340*,NA,*,0.053,53,11/26/2025,
+68,00s,p4,c3,dicl,yellow,dicl,3,3,157,,00s-p4-c3-dicl-3-157,00s-p4-c3-dicl-3-157,*00s-p4-c3-dicl-3-157*,NA,*,0.0533,53.3,11/26/2025,1
+183,00s,p4,c4,paan,orange,paan4,5,5,283,,00s-p4-c4-paan-5-283,00s-p4-c4-paan-5-283,*00s-p4-c4-paan-5-283*,NA,*,0.0535,53.5,11/21/2025,
+337,00s,p4,c3,patr,blue,patr3,6,6,350,,00s-p4-c3-patr-6-350,00s-p4-c3-patr-6-350,*00s-p4-c3-patr-6-350*,NA,*,0.0538,53.8,11/24/2025,
+175,00s,p4,c4,paan,orange,paan4,4,4,219,,00s-p4-c4-paan-4-219,00s-p4-c4-paan-4-219,*00s-p4-c4-paan-4-219*,NA,*,0.0545,54.5,11/26/2025,2
+89,70s,p4,c3,dicl,yellow,dicl,5,5,317,,70s-p4-c3-dicl-5-317,70s-p4-c3-dicl-5-317,*70s-p4-c3-dicl-5-317*,NA,*,0.0546,54.6,11/17/2025,
+304,00s,p3,c3,patr,blue,patr3,2,2,86,,00s-p3-c3-patr-2-86,00s-p3-c3-patr-2-86,*00s-p3-c3-patr-2-86*,NA,*,0.0548,54.8,11/26/2025,2
+169,70s,p2,c4,paan,orange,paan4,3,3,171,,70s-p2-c4-paan-3-171,70s-p2-c4-paan-3-171,*70s-p2-c4-paan-3-171*,NA,*,0.0549,54.9,11/25/2025,
+18,00s,p2,c3,disp,purple,disp2,3,3,143,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-3-143,00s-p2-c3-diac-3-143,*00s-p2-c3-diac-3-143*,NA,*,0.0552,55.2,11/25/2025,
+207,00s,p4,c4,paco,green,paco2,2,2,92,,00s-p4-c4-paco-2-92,00s-p4-c4-paco-2-92,*00s-p4-c4-paco-2-92*,NA,*,0.0558,55.8,11/26/2025,1
+230,00s,p2,c4,paco,green,paco2,5,5,268,,00s-p2-c4-paco-5-268,00s-p2-c4-paco-5-268,*00s-p2-c4-paco-5-268*,NA,*,0.0561,56.1,11/24/2025,
+31,70s,p3,c3,disp,purple,disp2,4,4,247,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-4-247,70s-p3-c3-diac-4-247,*70s-p3-c3-diac-4-247*,NA,*,0.0562,56.2,11/17/2025,
+350,00s,p1,c4,pavi,white,pavi2,2,2,65,,00s-p1-c4-pavi-2-65,00s-p1-c4-pavi-2-65,*00s-p1-c4-pavi-2-65*,NA,*,0.0564,56.4,11/26/2025,2
+62,70s,p2,c3,dicl,yellow,dicl,2,2,109,,70s-p2-c3-dicl-2-109,70s-p2-c3-dicl-2-109,*70s-p2-c3-dicl-2-109*,NA,*,0.0571,57.1,11/24/2025,
+107,00s,p2,c3,diol,red,diol,2,2,80,,00s-p2-c3-diol-2-80,00s-p2-c3-diol-2-80,*00s-p2-c3-diol-2-80*,NA,*,0.0571,57.1,11/26/2025,1
+306,70s,p1,c3,patr,blue,patr3,2,2,102,,70s-p1-c3-patr-2-102,70s-p1-c3-patr-2-102,*70s-p1-c3-patr-2-102*,NA,*,0.0571,57.1,11/26/2025,2 - wet
+156,00s,p2,c4,paan,orange,paan4,2,2,75,,00s-p2-c4-paan-2-75,00s-p2-c4-paan-2-75,*00s-p2-c4-paan-2-75*,NA,*,0.0572,57.2,11/26/2025,1
+63,70s,p3,c3,dicl,yellow,dicl,2,2,117,,70s-p3-c3-dicl-2-117,70s-p3-c3-dicl-2-117,*70s-p3-c3-dicl-2-117*,NA,*,0.0573,57.3,11/26/2025,1
+76,00s,p3,c3,dicl,yellow,dicl,4,4,213,,00s-p3-c3-dicl-4-213,00s-p3-c3-dicl-4-213,*00s-p3-c3-dicl-4-213*,NA,*,0.0575,57.5,11/25/2025,
+90,00s,p1,c3,dicl,yellow,dicl,6,6,325,,00s-p1-c3-dicl-6-325,00s-p1-c3-dicl-6-325,*00s-p1-c3-dicl-6-325*,NA,*,0.0575,57.5,11/26/2025,
+222,00s,p2,c4,paco,green,paco2,4,4,204,,00s-p2-c4-paco-4-204,00s-p2-c4-paco-4-204,*00s-p2-c4-paco-4-204*,NA,*,0.0577,57.7,11/17/2025,
+142,00s,p4,c3,diol,red,diol,6,6,352,,00s-p4-c3-diol-6-352,00s-p4-c3-diol-6-352,*00s-p4-c3-diol-6-352*,NA,*,0.0578,57.8,11/26/2025,
+161,70s,p2,c4,paan,orange,paan4,2,2,107,,70s-p2-c4-paan-2-107,70s-p2-c4-paan-2-107,*70s-p2-c4-paan-2-107*,NA,*,0.0578,57.8,11/24/2025,
+114,00s,p1,c3,diol,red,diol,3,3,136,,00s-p1-c3-diol-3-136,00s-p1-c3-diol-3-136,*00s-p1-c3-diol-3-136*,NA,*,0.059,59,11/26/2025,1
+125,00s,p4,c3,diol,red,diol,4,4,224,,00s-p4-c3-diol-4-224,00s-p4-c3-diol-4-224,*00s-p4-c3-diol-4-224*,NA,*,0.0594,59.4,11/25/2025,
+190,00s,p3,c4,paan,orange,paan4,6,6,339,,00s-p3-c4-paan-6-339,00s-p3-c4-paan-6-339,*00s-p3-c4-paan-6-339*,NA,*,0.0595,59.5,11/26/2025,"2 (Ground before weighing, lost some on lid)"
+214,00s,p3,c4,paco,green,paco2,3,3,148,,00s-p3-c4-paco-3-148,00s-p3-c4-paco-3-148,*00s-p3-c4-paco-3-148*,NA,*,0.0595,59.5,11/26/2025,1
+73,70s,p4,c3,dicl,yellow,dicl,3,3,189,,70s-p4-c3-dicl-3-189,70s-p4-c3-dicl-3-189,*70s-p4-c3-dicl-3-189*,NA,*,0.0597,59.7,11/26/2025,2
+328,00s,p3,c3,patr,blue,patr3,5,5,278,,00s-p3-c3-patr-5-278,00s-p3-c3-patr-5-278,*00s-p3-c3-patr-5-278*,NA,*,0.0601,60.1,11/21/2025,
+152,70s,p2,c4,paan,orange,paan4,1,1,43,,70s-p2-c4-paan-1-43,70s-p2-c4-paan-1-43,*70s-p2-c4-paan-1-43*,NA,*,0.0602,60.2,11/25/2025,
+123,00s,p2,c3,diol,red,diol,4,4,208,,00s-p2-c3-diol-4-208,00s-p2-c3-diol-4-208,*00s-p2-c3-diol-4-208*,NA,*,0.0603,60.3,11/17/2025,
+251,70s,p2,c4,paha,pink,paha,1,1,42,,70s-p2-c4-paha-1-42,70s-p2-c4-paha-1-42,*70s-p2-c4-paha-1-42*,NA,*,0.0612,61.2,11/25/2025,
+204,00s,p1,c4,paco,green,paco2,2,2,68,,00s-p1-c4-paco-2-68,00s-p1-c4-paco-2-68,*00s-p1-c4-paco-2-68*,NA,*,0.0614,61.4,11/26/2025,1
+313,00s,p4,c3,patr,blue,patr3,3,3,158,,00s-p4-c3-patr-3-158,00s-p4-c3-patr-3-158,*00s-p4-c3-patr-3-158*,NA,*,0.0616,61.6,11/25/2025,
+212,00s,p1,c4,paco,green,paco2,3,3,132,,00s-p1-c4-paco-3-132,00s-p1-c4-paco-3-132,*00s-p1-c4-paco-3-132*,NA,*,0.0617,61.7,11/24/2025,
+209,70s,p2,c4,paco,green,paco2,2,2,108,,70s-p2-c4-paco-2-108,70s-p2-c4-paco-2-108,*70s-p2-c4-paco-2-108*,NA,*,0.062,62,11/26/2025,1
+93,00s,p4,c3,dicl,yellow,dicl,6,6,349,,00s-p4-c3-dicl-6-349,00s-p4-c3-dicl-6-349,*00s-p4-c3-dicl-6-349*,NA,*,0.0627,62.7,11/17/2025,
+27,00s,p3,c3,disp,purple,disp2,4,4,215,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-4-215,00s-p3-c3-diac-4-215,*00s-p3-c3-diac-4-215*,NA,*,0.063,63,11/21/2025,
+130,00s,p1,c3,diol,red,diol,5,5,264,,00s-p1-c3-diol-5-264,00s-p1-c3-diol-5-264,*00s-p1-c3-diol-5-264*,NA,*,0.0631,63.1,11/24/2025,
+56,70s,p4,c3,dicl,yellow,dicl,1,1,61,,70s-p4-c3-dicl-1-61,70s-p4-c3-dicl-1-61,*70s-p4-c3-dicl-1-61*,NA,*,0.0632,63.2,11/21/2025,
+1,00s,p1,c3,disp,purple,disp2,1,1,7,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-1-7,00s-p1-c3-diac-1-7,*00s-p1-c3-diac-1-7*,NA,*,0.0635,63.5,11/17/2025,
+149,00s,p3,c4,paan,orange,paan4,1,1,19,,00s-p3-c4-paan-1-19,00s-p3-c4-paan-1-19,*00s-p3-c4-paan-1-19*,NA,*,0.0639,63.9,11/17/2025,
+9,00s,p1,c3,disp,purple,disp2,2,2,71,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-2-71,00s-p1-c3-diac-2-71,*00s-p1-c3-diac-2-71*,NA,*,0.0641,64.1,11/26/2025,2
+326,00s,p1,c3,patr,blue,patr3,5,5,262,,00s-p1-c3-patr-5-262,00s-p1-c3-patr-5-262,*00s-p1-c3-patr-5-262*,NA,*,0.0643,64.3,11/17/2025,
+191,00s,p4,c4,paan,orange,paan4,6,6,347,,00s-p4-c4-paan-6-347,00s-p4-c4-paan-6-347,*00s-p4-c4-paan-6-347*,NA,*,0.0647,64.7,11/26/2025,
+124,00s,p3,c3,diol,red,diol,4,4,216,,00s-p3-c3-diol-4-216,00s-p3-c3-diol-4-216,*00s-p3-c3-diol-4-216*,NA,*,0.0649,64.9,11/17/2025,
+159,70s,p1,c4,paan,orange,paan4,2,2,99,,70s-p1-c4-paan-2-99,70s-p1-c4-paan-2-99,*70s-p1-c4-paan-2-99*,NA,*,0.0651,65.1,11/24/2025,1 (sample ground before weighing in tube)
+160,70s,p1,c4,paan,orange,paan4,2,2,99,,70s-p1-c4-paan-2-99,70s-p1-c4-paan-2-99,*70s-p1-c4-paan-2-99*,NA,*,0.0651,65.1,11/26/2025,1
+75,00s,p2,c3,dicl,yellow,dicl,4,4,205,,00s-p2-c3-dicl-4-205,00s-p2-c3-dicl-4-205,*00s-p2-c3-dicl-4-205*,NA,*,0.0657,65.7,11/26/2025,
+101,00s,p4,c3,diol,red,diol,1,1,32,,00s-p4-c3-diol-1-32,00s-p4-c3-diol-1-32,*00s-p4-c3-diol-1-32*,NA,*,0.0658,65.8,11/17/2025,Weighed after grounded
+116,00s,p3,c3,diol,red,diol,3,3,152,,00s-p3-c3-diol-3-152,00s-p3-c3-diol-3-152,*00s-p3-c3-diol-3-152*,NA,*,0.0659,65.9,11/25/2025,
+122,00s,p1,c3,diol,red,diol,4,4,200,,00s-p1-c3-diol-4-200,00s-p1-c3-diol-4-200,*00s-p1-c3-diol-4-200*,NA,*,0.0667,66.7,11/26/2025,
+11,00s,p3,c3,disp,purple,disp2,2,2,87,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-2-87,00s-p3-c3-diac-2-87,*00s-p3-c3-diac-2-87*,NA,*,0.0669,66.9,11/24/2025,
+215,00s,p4,c4,paco,green,paco2,3,3,156,,00s-p4-c4-paco-3-156,00s-p4-c4-paco-3-156,*00s-p4-c4-paco-3-156*,NA,*,0.0671,67.1,11/26/2025,2
+182,00s,p3,c4,paan,orange,paan4,5,5,275,,00s-p3-c4-paan-5-275,00s-p3-c4-paan-5-275,*00s-p3-c4-paan-5-275*,NA,*,0.0673,67.3,11/24/2025,
+58,00s,p2,c3,dicl,yellow,dicl,2,2,77,,00s-p2-c3-dicl-2-77,00s-p2-c3-dicl-2-77,*00s-p2-c3-dicl-2-77*,NA,*,0.0675,67.5,11/24/2025,
+363,70s,p2,c4,pavi,white,pavi2,3,3,169,,70s-p2-c4-pavi-3-169,70s-p2-c4-pavi-3-169,*70s-p2-c4-pavi-3-169*,NA,*,0.0675,67.5,11/25/2025,
+162,70s,p3,c4,paan,orange,paan4,2,2,115,,70s-p3-c4-paan-2-115,70s-p3-c4-paan-2-115,*70s-p3-c4-paan-2-115*,NA,*,0.0677,67.7,11/24/2025,
+72,70s,p3,c3,dicl,yellow,dicl,3,3,181,,70s-p3-c3-dicl-3-181,70s-p3-c3-dicl-3-181,*70s-p3-c3-dicl-3-181*,NA,*,0.0681,68.1,11/26/2025,1
+231,00s,p3,c4,paco,green,paco2,5,5,276,,00s-p3-c4-paco-5-276,00s-p3-c4-paco-5-276,*00s-p3-c4-paco-5-276*,NA,*,0.0681,68.1,11/21/2025,
+106,00s,p1,c3,diol,red,diol,2,2,72,,00s-p1-c3-diol-2-72,00s-p1-c3-diol-2-72,*00s-p1-c3-diol-2-72*,NA,*,0.0691,69.1,11/26/2025,1
+296,00s,p3,c3,patr,blue,patr3,1,1,22,,00s-p3-c3-patr-1-22,00s-p3-c3-patr-1-22,*00s-p3-c3-patr-1-22*,NA,*,0.0692,69.2,11/17/2025,
+3,00s,p3,c3,disp,purple,disp2,1,1,23,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-1-23,00s-p3-c3-diac-1-23,*00s-p3-c3-diac-1-23*,NA,*,0.0696,69.6,11/21/2025,
+50,00s,p2,c3,dicl,yellow,dicl,1,1,13,,00s-p2-c3-dicl-1-13,00s-p2-c3-dicl-1-13,*00s-p2-c3-dicl-1-13*,NA,*,0.0708,70.8,11/26/2025,2
+358,00s,p1,c4,pavi,white,pavi2,3,3,129,,00s-p1-c4-pavi-3-129,00s-p1-c4-pavi-3-129,*00s-p1-c4-pavi-3-129*,NA,*,0.0718,71.8,11/25/2025,
+133,00s,p4,c3,diol,red,diol,5,5,288,,00s-p4-c3-diol-5-288,00s-p4-c3-diol-5-288,*00s-p4-c3-diol-5-288*,NA,*,0.0722,72.2,11/26/2025,1
+174,00s,p3,c4,paan,orange,paan4,4,4,211,,00s-p3-c4-paan-4-211,00s-p3-c4-paan-4-211,*00s-p3-c4-paan-4-211*,NA,*,0.0728,72.8,11/26/2025,
+205,00s,p2,c4,paco,green,paco2,2,2,76,,00s-p2-c4-paco-2-76,00s-p2-c4-paco-2-76,*00s-p2-c4-paco-2-76*,NA,*,0.0734,73.4,11/26/2025,1
+43,00s,p3,c3,disp,purple,disp2,6,6,343,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-6-343,00s-p3-c3-diac-6-343,*00s-p3-c3-diac-6-343*,NA,*,0.0735,73.5,11/17/2025,
+173,00s,p2,c4,paan,orange,paan4,4,4,203,,00s-p2-c4-paan-4-203,00s-p2-c4-paan-4-203,*00s-p2-c4-paan-4-203*,NA,*,0.0738,73.8,11/17/2025,
+36,00s,p4,c3,disp,purple,disp2,5,5,287,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-5-287,00s-p4-c3-diac-5-287,*00s-p4-c3-diac-5-287*,NA,*,0.0748,74.8,11/24/2025,
+82,00s,p1,c3,dicl,yellow,dicl,5,5,261,,00s-p1-c3-dicl-5-261,00s-p1-c3-dicl-5-261,*00s-p1-c3-dicl-5-261*,NA,*,0.076,76,11/21/2025,
+51,00s,p3,c3,dicl,yellow,dicl,1,1,21,,00s-p3-c3-dicl-1-21,00s-p3-c3-dicl-1-21,*00s-p3-c3-dicl-1-21*,NA,*,0.0764,76.4,11/17/2025,
+59,00s,p3,c3,dicl,yellow,dicl,2,2,85,,00s-p3-c3-dicl-2-85,00s-p3-c3-dicl-2-85,*00s-p3-c3-dicl-2-85*,NA,*,0.0766,76.6,11/26/2025,1
+356,70s,p3,c4,pavi,white,pavi2,2,2,113,,70s-p3-c4-pavi-2-113,70s-p3-c4-pavi-2-113,*70s-p3-c4-pavi-2-113*,NA,*,0.0767,76.7,11/24/2025,
+213,00s,p2,c4,paco,green,paco2,3,3,140,,00s-p2-c4-paco-3-140,00s-p2-c4-paco-3-140,*00s-p2-c4-paco-3-140*,NA,*,0.0783,78.3,11/25/2025,
+117,00s,p4,c3,diol,red,diol,3,3,160,,00s-p4-c3-diol-3-160,00s-p4-c3-diol-3-160,*00s-p4-c3-diol-3-160*,NA,*,0.0786,78.6,11/25/2025,
+189,00s,p2,c4,paan,orange,paan4,6,6,331,,00s-p2-c4-paan-6-331,00s-p2-c4-paan-6-331,*00s-p2-c4-paan-6-331*,NA,*,0.0793,79.3,11/17/2025,
+108,00s,p3,c3,diol,red,diol,2,2,88,,00s-p3-c3-diol-2-88,00s-p3-c3-diol-2-88,*00s-p3-c3-diol-2-88*,NA,*,0.0798,79.8,11/26/2025,1
+98,00s,p1,c3,diol,red,diol,1,1,8,,00s-p1-c3-diol-1-8,00s-p1-c3-diol-1-8,*00s-p1-c3-diol-1-8*,NA,*,0.0802,80.2,11/26/2025,2
+49,00s,p1,c3,dicl,yellow,dicl,1,1,5,,00s-p1-c3-dicl-1-5,00s-p1-c3-dicl-1-5,*00s-p1-c3-dicl-1-5*,NA,*,0.0816,81.6,11/21/2025,
+240,00s,p4,c4,paco,green,paco2,6,6,348,,00s-p4-c4-paco-6-348,00s-p4-c4-paco-6-348,*00s-p4-c4-paco-6-348*,NA,*,0.0816,81.6,11/17/2025,
+229,00s,p1,c4,paco,green,paco2,5,5,260,,00s-p1-c4-paco-5-260,00s-p1-c4-paco-5-260,*00s-p1-c4-paco-5-260*,NA,*,0.0819,81.9,11/26/2025,2
+221,00s,p1,c4,paco,green,paco2,4,4,196,,00s-p1-c4-paco-4-196,00s-p1-c4-paco-4-196,*00s-p1-c4-paco-4-196*,NA,*,0.0826,82.6,11/21/2025,
+223,00s,p3,c4,paco,green,paco2,4,4,212,,00s-p3-c4-paco-4-212,00s-p3-c4-paco-4-212,*00s-p3-c4-paco-4-212*,NA,*,0.0829,82.9,11/21/2025,
+180,00s,p1,c4,paan,orange,paan4,5,5,259,,00s-p1-c4-paan-5-259,00s-p1-c4-paan-5-259,*00s-p1-c4-paan-5-259*,NA,*,0.0833,83.3,11/26/2025,1
+91,00s,p2,c3,dicl,yellow,dicl,6,6,333,,00s-p2-c3-dicl-6-333,00s-p2-c3-dicl-6-333,*00s-p2-c3-dicl-6-333*,NA,*,0.0835,83.5,11/26/2025,2
+377,00s,p4,c4,pavi,white,pavi2,5,5,281,,00s-p4-c4-pavi-5-281,00s-p4-c4-pavi-5-281,*00s-p4-c4-pavi-5-281*,NA,*,0.0839,83.9,11/17/2025,
+69,70s,p1,c3,dicl,yellow,dicl,3,3,165,,70s-p1-c3-dicl-3-165,70s-p1-c3-dicl-3-165,*70s-p1-c3-dicl-3-165*,NA,*,0.0842,84.2,11/25/2025,
+138,00s,p1,c3,diol,red,diol,6,6,328,,00s-p1-c3-diol-6-328,00s-p1-c3-diol-6-328,*00s-p1-c3-diol-6-328*,NA,*,0.0842,84.2,11/25/2025,
+85,00s,p4,c3,dicl,yellow,dicl,5,5,285,,00s-p4-c3-dicl-5-285,00s-p4-c3-dicl-5-285,*00s-p4-c3-dicl-5-285*,NA,*,0.0846,84.6,11/21/2025,
+44,00s,p4,c3,disp,purple,disp2,6,6,351,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-6-351,00s-p4-c3-diac-6-351,*00s-p4-c3-diac-6-351*,NA,*,0.0847,84.7,11/24/2025,
+224,00s,p4,c4,paco,green,paco2,4,4,220,,00s-p4-c4-paco-4-220,00s-p4-c4-paco-4-220,*00s-p4-c4-paco-4-220*,NA,*,0.0851,85.1,11/26/2025,
+375,00s,p2,c4,pavi,white,pavi2,5,5,265,,00s-p2-c4-pavi-5-265,00s-p2-c4-pavi-5-265,*00s-p2-c4-pavi-5-265*,NA,*,0.0851,85.1,11/24/2025,
+238,00s,p2,c4,paco,green,paco2,6,6,332,,00s-p2-c4-paco-6-332,00s-p2-c4-paco-6-332,*00s-p2-c4-paco-6-332*,NA,*,0.0853,85.3,11/24/2025,
+141,00s,p3,c3,diol,red,diol,6,6,344,,00s-p3-c3-diol-6-344,00s-p3-c3-diol-6-344,*00s-p3-c3-diol-6-344*,NA,*,0.0859,85.9,11/24/2025,Duplicate - Not 344
+17,00s,p1,c3,disp,purple,disp2,3,3,135,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-3-135,00s-p1-c3-diac-3-135,*00s-p1-c3-diac-3-135*,NA,*,0.087,87,11/25/2025,
+33,00s,p1,c3,disp,purple,disp2,5,5,263,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-5-263,00s-p1-c3-diac-5-263,*00s-p1-c3-diac-5-263*,NA,*,0.0882,88.2,11/21/2025,
+367,00s,p2,c4,pavi,white,pavi2,4,4,201,,00s-p2-c4-pavi-4-201,00s-p2-c4-pavi-4-201,*00s-p2-c4-pavi-4-201*,NA,*,0.0895,89.5,11/17/2025,
+157,00s,p3,c4,paan,orange,paan4,2,2,83,,00s-p3-c4-paan-2-83,00s-p3-c4-paan-2-83,*00s-p3-c4-paan-2-83*,NA,*,0.0916,91.6,11/26/2025,1
+206,00s,p3,c4,paco,green,paco2,2,2,84,,00s-p3-c4-paco-2-84,00s-p3-c4-paco-2-84,*00s-p3-c4-paco-2-84*,NA,*,0.0917,91.7,11/24/2025,
+57,00s,p1,c3,dicl,yellow,dicl,2,2,69,,00s-p1-c3-dicl-2-69,00s-p1-c3-dicl-2-69,*00s-p1-c3-dicl-2-69*,NA,*,0.093,93,11/26/2025,1
+19,00s,p3,c3,disp,purple,disp2,3,3,151,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-3-151,00s-p3-c3-diac-3-151,*00s-p3-c3-diac-3-151*,NA,*,0.0933,93.3,11/25/2025,
+65,00s,p1,c3,dicl,yellow,dicl,3,3,133,,00s-p1-c3-dicl-3-133,00s-p1-c3-dicl-3-133,*00s-p1-c3-dicl-3-133*,NA,*,0.0939,93.9,11/26/2025,1
+232,00s,p4,c4,paco,green,paco2,5,5,284,,00s-p4-c4-paco-5-284,00s-p4-c4-paco-5-284,*00s-p4-c4-paco-5-284*,NA,*,0.0947,94.7,11/24/2025,
+99,00s,p2,c3,diol,red,diol,1,1,16,,00s-p2-c3-diol-1-16,00s-p2-c3-diol-1-16,*00s-p2-c3-diol-1-16*,NA,*,0.0952,95.2,11/26/2025,2
+55,70s,p3,c3,dicl,yellow,dicl,1,1,53,,70s-p3-c3-dicl-1-53,70s-p3-c3-dicl-1-53,*70s-p3-c3-dicl-1-53*,NA,*,0.0953,95.3,11/24/2025,
+109,00s,p4,c3,diol,red,diol,2,2,96,,00s-p4-c3-diol-2-96,00s-p4-c3-diol-2-96,*00s-p4-c3-diol-2-96*,NA,*,0.0956,95.6,11/26/2025,1
+34,00s,p2,c3,disp,purple,disp2,5,5,271,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-5-271,00s-p2-c3-diac-5-271,*00s-p2-c3-diac-5-271*,NA,*,0.0964,96.4,11/21/2025,
+4,00s,p4,c3,disp,purple,disp2,1,1,31,"used to be diac, updated to disp based on growing",00s-p4-c3-diac-1-31,00s-p4-c3-diac-1-31,*00s-p4-c3-diac-1-31*,NA,*,0.097,97,11/25/2025,
+181,00s,p2,c4,paan,orange,paan4,5,5,267,,00s-p2-c4-paan-5-267,00s-p2-c4-paan-5-267,*00s-p2-c4-paan-5-267*,NA,*,0.0972,97.2,11/21/2025,
+35,00s,p3,c3,disp,purple,disp2,5,5,279,"used to be diac, updated to disp based on growing",00s-p3-c3-diac-5-279,00s-p3-c3-diac-5-279,*00s-p3-c3-diac-5-279*,NA,*,0.0982,98.2,11/24/2025,
+198,00s,p3,c4,paco,green,paco2,1,1,20,,00s-p3-c4-paco-1-20,00s-p3-c4-paco-1-20,*00s-p3-c4-paco-1-20*,NA,*,0.0998,99.8,11/26/2025,2
+131,00s,p2,c3,diol,red,diol,5,5,272,,00s-p2-c3-diol-5-272,00s-p2-c3-diol-5-272,*00s-p2-c3-diol-5-272*,NA,*,0.1008,100.8,11/24/2025,
+361,00s,p4,c4,pavi,white,pavi2,3,3,153,,00s-p4-c4-pavi-3-153,00s-p4-c4-pavi-3-153,*00s-p4-c4-pavi-3-153*,NA,*,0.1008,100.8,11/26/2025,2
+83,00s,p2,c3,dicl,yellow,dicl,5,5,269,,00s-p2-c3-dicl-5-269,00s-p2-c3-dicl-5-269,*00s-p2-c3-dicl-5-269*,NA,*,0.1014,101.4,11/21/2025,
+353,00s,p4,c4,pavi,white,pavi2,2,2,89,,00s-p4-c4-pavi-2-89,00s-p4-c4-pavi-2-89,*00s-p4-c4-pavi-2-89*,NA,*,0.1024,102.4,11/26/2025,2
+199,00s,p4,c4,paco,green,paco2,1,1,28,,00s-p4-c4-paco-1-28,00s-p4-c4-paco-1-28,*00s-p4-c4-paco-1-28*,NA,*,0.1065,106.5,11/26/2025,2
+360,00s,p3,c4,pavi,white,pavi2,3,3,145,,00s-p3-c4-pavi-3-145,00s-p3-c4-pavi-3-145,*00s-p3-c4-pavi-3-145*,NA,*,0.108,108,11/26/2025,
+220,70s,p4,c4,paco,green,paco2,3,3,188,,70s-p4-c4-paco-3-188,70s-p4-c4-paco-3-188,*70s-p4-c4-paco-3-188*,NA,*,0.1097,109.7,11/26/2025,1
+383,00s,p2,c4,pavi,white,pavi2,6,6,329,,00s-p2-c4-pavi-6-329,00s-p2-c4-pavi-6-329,*00s-p2-c4-pavi-6-329*,NA,*,0.1115,111.5,11/24/2025,
+345,00s,p4,c4,pavi,white,pavi2,1,1,25,,00s-p4-c4-pavi-1-25,00s-p4-c4-pavi-1-25,*00s-p4-c4-pavi-1-25*,NA,*,0.1117,111.7,11/21/2025,
+84,00s,p3,c3,dicl,yellow,dicl,5,5,277,,00s-p3-c3-dicl-5-277,00s-p3-c3-dicl-5-277,*00s-p3-c3-dicl-5-277*,NA,*,0.1121,112.1,11/24/2025,
+197,00s,p2,c4,paco,green,paco2,1,1,12,,00s-p2-c4-paco-1-12,00s-p2-c4-paco-1-12,*00s-p2-c4-paco-1-12*,NA,*,0.1136,113.6,11/26/2025,2
+343,00s,p2,c4,pavi,white,pavi2,1,1,9,,00s-p2-c4-pavi-1-9,00s-p2-c4-pavi-1-9,*00s-p2-c4-pavi-1-9*,NA,*,0.1152,115.2,11/17/2025,Some leaf material stuck in freeze dried tube
+42,00s,p2,c3,disp,purple,disp2,6,6,335,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-6-335,00s-p2-c3-diac-6-335,*00s-p2-c3-diac-6-335*,NA,*,0.1173,117.3,11/24/2025,
+352,00s,p3,c4,pavi,white,pavi2,2,2,81,,00s-p3-c4-pavi-2-81,00s-p3-c4-pavi-2-81,*00s-p3-c4-pavi-2-81*,NA,*,0.1177,117.7,11/24/2025,
+302,00s,p1,c3,patr,blue,patr3,2,2,70,,00s-p1-c3-patr-2-70,00s-p1-c3-patr-2-70,*00s-p1-c3-patr-2-70*,NA,*,0.1179,117.9,11/26/2025,1
+384,00s,p3,c4,pavi,white,pavi2,6,6,337,,00s-p3-c4-pavi-6-337,00s-p3-c4-pavi-6-337,*00s-p3-c4-pavi-6-337*,NA,*,0.1179,117.9,11/26/2025,
+342,00s,p1,c4,pavi,white,pavi2,1,1,1,,00s-p1-c4-pavi-1-1,00s-p1-c4-pavi-1-1,*00s-p1-c4-pavi-1-1*,NA,*,0.1213,121.3,11/21/2025,
+70,70s,p1,c3,dicl,yellow,dicl,3,3,165,,70s-p1-c3-dicl-3-165,70s-p1-c3-dicl-3-165,*70s-p1-c3-dicl-3-165*,NA,*,0.1234,123.4,11/17/2025,Wrong code
+382,00s,p1,c4,pavi,white,pavi2,6,6,321,,00s-p1-c4-pavi-6-321,00s-p1-c4-pavi-6-321,*00s-p1-c4-pavi-6-321*,NA,*,0.1274,127.4,11/17/2025,
+351,00s,p2,c4,pavi,white,pavi2,2,2,73,,00s-p2-c4-pavi-2-73,00s-p2-c4-pavi-2-73,*00s-p2-c4-pavi-2-73*,NA,*,0.1378,137.8,11/26/2025,1
+344,00s,p3,c4,pavi,white,pavi2,1,1,17,,00s-p3-c4-pavi-1-17,00s-p3-c4-pavi-1-17,*00s-p3-c4-pavi-1-17*,NA,*,0.1424,142.4,11/26/2025,2
+369,00s,p4,c4,pavi,white,pavi2,4,4,217,,00s-p4-c4-pavi-4-217,00s-p4-c4-pavi-4-217,*00s-p4-c4-pavi-4-217*,NA,*,0.143,143,11/21/2025,
+41,00s,p1,c3,disp,purple,disp2,6,6,327,"used to be diac, updated to disp based on growing",00s-p1-c3-diac-6-327,00s-p1-c3-diac-6-327,*00s-p1-c3-diac-6-327*,NA,*,0.1434,143.4,11/26/2025,
+385,00s,p4,c4,pavi,white,pavi2,6,6,345,,00s-p4-c4-pavi-6-345,00s-p4-c4-pavi-6-345,*00s-p4-c4-pavi-6-345*,NA,*,0.1442,144.2,11/26/2025,
+368,00s,p3,c4,pavi,white,pavi2,4,4,209,,00s-p3-c4-pavi-4-209,00s-p3-c4-pavi-4-209,*00s-p3-c4-pavi-4-209*,NA,*,0.1463,146.3,11/25/2025,
+10,00s,p2,c3,disp,purple,disp2,2,2,79,"used to be diac, updated to disp based on growing",00s-p2-c3-diac-2-79,00s-p2-c3-diac-2-79,*00s-p2-c3-diac-2-79*,NA,*,0.1464,146.4,11/26/2025,1
+14,70s,p2,c3,disp,purple,disp2,2,2,111,"used to be diac, updated to disp based on growing",70s-p2-c3-diac-2-111,70s-p2-c3-diac-2-111,*70s-p2-c3-diac-2-111*,NA,*,0.1478,147.8,11/26/2025,1
+366,00s,p1,c4,pavi,white,pavi2,4,4,193,,00s-p1-c4-pavi-4-193,00s-p1-c4-pavi-4-193,*00s-p1-c4-pavi-4-193*,NA,*,0.1661,166.1,11/21/2025,
+374,00s,p1,c4,pavi,white,pavi2,5,5,257,,00s-p1-c4-pavi-5-257,00s-p1-c4-pavi-5-257,*00s-p1-c4-pavi-5-257*,NA,*,0.1907,190.7,11/21/2025,
+359,00s,p2,c4,pavi,white,pavi2,3,3,137,,00s-p2-c4-pavi-3-137,00s-p2-c4-pavi-3-137,*00s-p2-c4-pavi-3-137*,NA,*,0.2036,203.6,11/26/2025,"1, check weight again"
+47,70s,p3,c3,disp,purple,disp2,6,6,375,"used to be diac, updated to disp based on growing",70s-p3-c3-diac-6-375,70s-p3-c3-diac-6-375,*70s-p3-c3-diac-6-375*,NA,*,NA,NA,NA,NA
+54,70s,p2,c3,dicl,yellow,dicl,1,1,45,,70s-p2-c3-dicl-1-45,70s-p2-c3-dicl-1-45,*70s-p2-c3-dicl-1-45*,NA,*,NA,NA,NA,NA
+165,00s,p2,c4,paan,orange,paan4,3,3,139,,00s-p2-c4-paan-3-139,00s-p2-c4-paan-3-139,*00s-p2-c4-paan-3-139*,NA,*,NA,NA,NA,NA
+166,00s,p3,c4,paan,orange,paan4,3,3,147,,00s-p3-c4-paan-3-147,00s-p3-c4-paan-3-147,*00s-p3-c4-paan-3-147*,NA,*,NA,NA,NA,NA
+234,70s,p2,c4,paco,green,paco2,5,5,300,,70s-p2-c4-paco-5-300,70s-p2-c4-paco-5-300,*70s-p2-c4-paco-5-300*,NA,*,NA,NA,NA,NA
+283,70s,p2,c4,paha,pink,paha,5,5,298,,70s-p2-c4-paha-5-298,70s-p2-c4-paha-5-298,*70s-p2-c4-paha-5-298*,NA,*,NA,NA,NA,NA
+284,70s,p3,c4,paha,pink,paha,5,5,306,,70s-p3-c4-paha-5-306,70s-p3-c4-paha-5-306,*70s-p3-c4-paha-5-306*,NA,*,NA,NA,NA,NA
+285,70s,p4,c4,paha,pink,paha,5,5,314,,70s-p4-c4-paha-5-314,70s-p4-c4-paha-5-314,*70s-p4-c4-paha-5-314*,NA,*,NA,NA,NA,NA
+290,70s,p1,c4,paha,pink,paha,6,6,354,,70s-p1-c4-paha-6-354,70s-p1-c4-paha-6-354,*70s-p1-c4-paha-6-354*,NA,*,NA,NA,NA,NA
+291,70s,p2,c4,paha,pink,paha,6,6,362,,70s-p2-c4-paha-6-362,70s-p2-c4-paha-6-362,*70s-p2-c4-paha-6-362*,NA,*,NA,NA,NA,NA
+308,70s,p3,c3,patr,blue,patr3,2,2,118,,70s-p3-c3-patr-2-118,70s-p3-c3-patr-2-118,*70s-p3-c3-patr-2-118*,NA,*,NA,NA,NA,NA
+365,70s,p4,c4,pavi,white,pavi2,3,3,185,,70s-p4-c4-pavi-3-185,70s-p4-c4-pavi-3-185,*70s-p4-c4-pavi-3-185*,NA,*,NA,NA,NA,NA
+379,70s,p2,c4,pavi,white,pavi2,5,5,297,,70s-p2-c4-pavi-5-297,70s-p2-c4-pavi-5-297,*70s-p2-c4-pavi-5-297*,NA,*,NA,NA,NA,NA
